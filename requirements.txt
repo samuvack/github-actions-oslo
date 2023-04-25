@@ -4,5 +4,3 @@ chromedriver_autoinstaller
 pyvirtualdisplay
 bs4
 selenium
-json
-os
