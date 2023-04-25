@@ -251,8 +251,10 @@ write_to_file('README.md', "## Schedule a OSLO monitoring Python script with Git
 for link in links:
     data = getData(link, driver)
     resultaat = analyse(data)
+    
     print(link, "\n")
     print(resultaat, "\n\n\n")
+    write_to_file('README.md', '\n')
     write_to_file('README.md', link)
     write_to_file('README.md', resultaat)
     write_to_file('README.md', '\n')
