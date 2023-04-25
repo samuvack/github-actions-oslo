@@ -40,7 +40,7 @@ for option in options:
 
 
 driver = webdriver.Chrome(options=chrome_options)
-
+"""
 
 
 
@@ -75,7 +75,6 @@ def write_to_file(filename, parameter):
     try:
         with open(filename, 'a') as file:
             file.write(parameter)
-            file.write(('\n'))
         print(
             f'Success: Parameter "{parameter}" written to file "{filename}".')
     except IOError as e:
@@ -248,15 +247,26 @@ links = ['https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/', '
          'https://data.vlaanderen.be/doc/applicatieprofiel/vegetatie-elementen', 'https://data.vlaanderen.be/doc/applicatieprofiel/waterdelen', 'https://data.vlaanderen.be/doc/applicatieprofiel/watervoorkomen', 'https://data.vlaanderen.be/doc/applicatieprofiel/openbaar-domein', 'https://data.vlaanderen.be/doc/applicatieprofiel/openbaar-domein', 'https://data.vlaanderen.be/doc/applicatieprofiel/gebieden', 'https://data.vlaanderen.be/doc/applicatieprofiel/infrastructuurelementen', 'https://data.vlaanderen.be/doc/applicatieprofiel/vegetatie-elementen', 'https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen', 'https://data.vlaanderen.be/doc/applicatieprofiel/begroeid-voorkomen', 'https://data.vlaanderen.be/doc/applicatieprofiel/onbegroeid-voorkomen', 'https://data.vlaanderen.be/doc/applicatieprofiel/waterdelen', 'https://data.vlaanderen.be/doc/applicatieprofiel/watervoorkomen', 'https://data.vlaanderen.be/doc/applicatieprofiel/begraafplaatsen', 'https://data.vlaanderen.be/doc/applicatieprofiel/begraafplaatsenbeheer', 'https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/', 'https://data.vlaanderen.be/doc/applicatieprofiel/dossier/', 'https://data.vlaanderen.be/doc/applicatieprofiel/adresregister/', 'https://data.vlaanderen.be/doc/applicatieprofiel/besluit-mobiliteit/', 'https://data.vlaanderen.be/doc/applicatieprofiel/subsidieregister/', 'https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijk-sanctieregister', 'https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/bodem-en-ondergrond/kandidaatstandaard/2022-04-28', 'https://data.vlaanderen.be/doc/applicatieprofiel/dienstencataloog/', 'https://data.vlaanderen.be/doc/applicatieprofiel/cultuurparticipatie', 'https://data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/', 'https://data.vlaanderen.be/doc/applicatieprofiel/financiele-data', 'https://test.data.vlaanderen.be/doc/applicatieprofiel/gebouwenregister/', 'https://data.vlaanderen.be/doc/applicatieprofiel/inname-openbaar-domein/', 'https://data.vlaanderen.be/doc/applicatieprofiel/loongegevens', 'https://data.vlaanderen.be/doc/applicatieprofiel/observaties-en-metingen/kandidaatstandaard/2022-04-28', 'https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis/', 'https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis/', 'https://data.vlaanderen.be/doc/applicatieprofiel/sensoren-en-bemonstering/kandidaatstandaard/2022-04-28', 'https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/', 'https://data.vlaanderen.be/doc/applicatieprofiel/wegenregister/', 'https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-object', 'https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-event', 'https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur', 'https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit', 'https://data.vlaanderen.be/doc/applicatieprofiel/statistiek', 'https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit']
 create_empty_file("README.md")
 write_to_file('README.md', "## Schedule a OSLO monitoring Python script with GitHub Actions")
+write_to_file('README.md', '\n')
 for link in links:
     data = getData(link, driver)
     resultaat = analyse(data)
-    
-    print(link, "\n")
-    print(resultaat, "\n\n\n")
-    write_to_file('README.md', '\n')
-    write_to_file('README.md', link)
-    write_to_file('README.md', resultaat)
-    write_to_file('README.md', '\n')
-
+    if (resultaat == "Alles is in orde!"):
+        print(link, "\n")
+        print(resultaat, "\n\n\n")
+        write_to_file('README.md', '\n')
+        write_to_file('README.md', "["+link+"]("+link+")")
+        write_to_file('README.md', '\n')
+        write_to_file('README.md', '<span style="color:green">' +
+                      resultaat+'</span>')
+        write_to_file('README.md', '\n')
+    else:
+        print(link, "\n")
+        print(resultaat, "\n\n\n")
+        write_to_file('README.md', '\n')
+        write_to_file('README.md', "["+link+"]("+link+")")
+        write_to_file('README.md', '\n')
+        write_to_file('README.md', '<span style="color:red">' +
+                      resultaat+'</span>')
+        write_to_file('README.md', '\n')
     
