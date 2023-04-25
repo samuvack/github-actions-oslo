@@ -111,3 +111,6 @@ Geen verwacht type gevonden bij attribuut "volledig adres" van klasse "Adresvoor
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/begroeid-voorkomen/](https://data.vlaanderen.be/doc/applicatieprofiel/begroeid-voorkomen/)
 <span style="color:green">Alles is in orde!</span>
+
+[https://data.vlaanderen.be/doc/applicatieprofiel/infrastructuurelementen/](https://data.vlaanderen.be/doc/applicatieprofiel/infrastructuurelementen/)
+<span style="color:green">Alles is in orde!</span>
