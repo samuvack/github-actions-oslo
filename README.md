@@ -3,18 +3,13 @@
 ! Dit document is automatisch gegenereerd op : 2023-04-27 12:34:44.399480
 ```
 
-| Onbrekende gegevens               | Aantal  |
+| Onbrekende gegevens               | aantal  |
 | ----------------------------              | --------------------------  |
-| Fixme gevonden in attribuut               | 20  | 
-
-| Geen verwacht type gevonden bij attribuut | 6  | 
-
-| Kardinaliteit ontbreekt in attribuut      | 5  | 
-
-| Definitie ontbreekt in attribuut          | 1  | 
-
-| Geen beschrijving gevonden bij klasse     | 0  | 
-
+| Fixme gevonden in attribuut               | 20 |
+| Geen verwacht type gevonden bij attribuut | 6  |
+| Kardinaliteit ontbreekt in attribuut      | 5  |
+| Definitie ontbreekt in attribuut          | 1  |
+| Geen beschrijving gevonden bij klasse     | 0  |
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
 Geen beschrijving gevonden bij klasse "Relatie Qualificatie"   
