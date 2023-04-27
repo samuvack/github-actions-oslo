@@ -11,7 +11,7 @@ outputfile = '../README.md'
 
 from selenium import webdriver
 
-"""
+
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import chromedriver_autoinstaller
@@ -26,7 +26,7 @@ chromedriver_autoinstaller.install()
 # then add chromedriver to path
 
 
-"""
+
 chrome_options = webdriver.ChromeOptions()
 # Add your options as needed
 options = [
@@ -321,7 +321,6 @@ for link in links:
         text += '\\'
         text += '\n'
         text += resultaat
-        text += '\\'
         text += '\n'
         
     
