@@ -3,17 +3,6 @@
 ! Dit document is automatisch gegenereerd op : 2023-04-27 12:31:33.143171
 ```
 
-| Onbrekende gegevens               | Aantal  |
-| ----------------------------              | --------------------------  |
-| Fixme gevonden in attribuut               | 20  | 
-
-| Geen verwacht type gevonden bij attribuut | 6  | 
-
-| Kardinaliteit ontbreekt in attribuut      | 5  | 
-
-| Definitie ontbreekt in attribuut          | 1  | 
-
-\n
 | Onbrekende gegevens               | aantal  |
 | ----------------------------              | --------------------------  |
 | Fixme gevonden in attribuut               | 20 |
