@@ -13,8 +13,14 @@
 
 | Definitie ontbreekt in attribuut          | 1  | 
 
-| Geen beschrijving gevonden bij klasse     | 0  | 
-
+\n
+| Onbrekende gegevens               | aantal  |
+| ----------------------------              | --------------------------  |
+| Fixme gevonden in attribuut               | 20 |
+| Geen verwacht type gevonden bij attribuut | 6  |
+| Kardinaliteit ontbreekt in attribuut      | 5  |
+| Definitie ontbreekt in attribuut          | 1  |
+| Geen beschrijving gevonden bij klasse     | 0  |
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
 Geen beschrijving gevonden bij klasse "Relatie Qualificatie"  \ 
