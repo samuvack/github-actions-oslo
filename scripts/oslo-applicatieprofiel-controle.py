@@ -215,11 +215,13 @@ def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geen
                 geenfixme = geenfixme + 1
                 resultaat += "```diff \ - fixme gevonden in de link van klasse \"{}\" ``` <br>".format(
                     list(entiteit.keys())[0])
+                resultaat += "\n"
 
             # beschrijving van de klasse zelf checken
             if list(entiteit.values())[0][1]['beschrijving'] == "":
                 resultaat += "```diff \ - Geen beschrijving gevonden bij klasse \"{}\" ``` <br>".format(
                     list(entiteit.keys())[0])
+                resultaat += "\n"
 
             # attributen hier overlopen
             attribuut = list(list(list(entiteit.values())[
@@ -231,26 +233,31 @@ def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geen
                 geenfixme = geenfixme + 1
                 resultaat += "```diff \ - fixme gevonden in attribuut \"{}\" van klasse \"{}\" ``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
+                resultaat += "\n"
             cel = attributen[1]
             try:
                 if "fixme" in cel[list(cel.keys())[0]]:
                     geenfixme = geenfixme + 1
                     resultaat += "```diff \ - fixme gevonden in attribuut \"{}\" van klasse \"{}\"``` <br>".format(
                         attribuut, list(entiteit.keys())[0])
+                    resultaat += "\n"
             except:
                 geentype = geentype + 1
                 resultaat += "```diff \ - Geen verwacht type gevonden bij attribuut \"{}\" van klasse \"{}\" ``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
+                resultaat += "\n"
             cel = attributen[2]
             if cel == "":
                 geenkardinaliteit = geenkardinaliteit + 1
                 resultaat += "```diff \ - Kardinaliteit ontbreekt in attribuut \"{}\" van klasse \"{}\"``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
+                resultaat += "\n"
             cel = attributen[3]
             if cel == "":
                 geendefenitie = geendefenitie + 1
                 resultaat += "```diff \ - Definitie ontbreekt in attribuut \"{}\" van klasse \"{}\"``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
+                resultaat += "\n"
 
     if resultaat == "":
         resultaat += "```diff \ + Alles is in orde!```"
@@ -265,7 +272,7 @@ links = ['https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/', '
 create_empty_file("README.md")
 write_to_file(outputfile, "## OSLO applicatie profielen HTML validatie")
 write_to_file(outputfile, '\n')
-write_to_file(outputfile, '<br />')
+write_to_file(outputfile, '\')
 
 
 # using now() to get current time
@@ -277,29 +284,29 @@ print(current_time)
 write_to_file(
     '../README.md', """```diff
     ! Dit document is automatisch gevalideerd op : """ + str(current_time) + """```""")
-write_to_file(outputfile, '<br />')
+write_to_file(outputfile, '\n')
 
 for link in links:
     data = getData(link, driver)
     resultaat = analyse(data, geenfixme, geenbeschrijving,
                         geentype, geenkardinaliteit, geendefenitie)[0]
     if (resultaat == """Alles is in orde!"""):
-        print(link, "<br />")
-        print(resultaat, "<br /><br />")
-        write_to_file(outputfile, '<br />')
+        write_to_file(outputfile, '\')
+        write_to_file(outputfile, '\n')
         write_to_file(outputfile, "["+link+"]("+link+")")
-        write_to_file(outputfile, '<br />')
+        write_to_file(outputfile, '\')
+        write_to_file(outputfile, '\n')
         print(resultaat)
         write_to_file(outputfile, resultaat)
         
-        write_to_file(outputfile, '<br />')
+        write_to_file(outputfile, '\')
     else:
-        print(link, "<br />")
-        print(resultaat, "<br /><br />")
-        write_to_file(outputfile, '<br />')
+        print(link, "\")
+        print(resultaat, "\\")
+        write_to_file(outputfile, '\')
         write_to_file(outputfile, "["+link+"]("+link+")")
-        write_to_file(outputfile, '<br />')
+        write_to_file(outputfile, '\')
         print(resultaat)
         write_to_file(outputfile, resultaat)
-        write_to_file(outputfile, '<br />')
+        write_to_file(outputfile, '\')
     
