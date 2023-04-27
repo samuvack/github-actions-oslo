@@ -2,11 +2,13 @@
 \```diff
     ! Dit document is automatisch gegenereerd op : 2023-04-27 12:17:30.926977```
 
-| Fixme gevonden in attribuut               | 20  |
-| Geen verwacht type gevonden bij attribuut | 6  |
-| Kardinaliteit ontbreekt in attribuut      | 5  |
-| Definitie ontbreekt in attribuut          | 1  |
-| Geen beschrijving gevonden bij klasse     | 0  |
+\n
+
+| Fixme gevonden in attribuut               | 20  | \n
+| Geen verwacht type gevonden bij attribuut | 6  | \n
+| Kardinaliteit ontbreekt in attribuut      | 5  | \n
+| Definitie ontbreekt in attribuut          | 1  | \n
+| Geen beschrijving gevonden bij klasse     | 0  | \n
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
 Geen beschrijving gevonden bij klasse "Relatie Qualificatie"  \ 
