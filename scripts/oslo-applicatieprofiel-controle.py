@@ -228,6 +228,7 @@ def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geen
 
             # beschrijving van de klasse zelf checken
             if list(entiteit.values())[0][1]['beschrijving'] == "":
+                geenbeschrijving += 1
                 resultaat += "Geen beschrijving gevonden bij klasse \"{}\"   ".format(
                     list(entiteit.keys())[0])
                 resultaat += "\n"
