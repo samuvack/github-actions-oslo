@@ -270,7 +270,7 @@ current_time = datetime.datetime.now(tz=tz)
 print(current_time)
 
 write_to_file(
-    'README.md', 'Dit document is automatisch gevalideerd op : ' + str(current_time))
+    'README.md', '```diff ! Dit document is automatisch gevalideerd op : ' + str(current_time) + '```')
 write_to_file('README.md', '<br />')
 
 for link in links:
@@ -282,8 +282,7 @@ for link in links:
         write_to_file('README.md', '<br />')
         write_to_file('README.md', "["+link+"]("+link+")")
         write_to_file('README.md', '<br />')
-        write_to_file('README.md', '<span style="color:green">' +
-                      resultaat+'</span>')
+        write_to_file('README.md', resultaat)
         write_to_file('README.md', '<br />')
     else:
         print(link, "<br />")
@@ -291,7 +290,6 @@ for link in links:
         write_to_file('README.md', '<br />')
         write_to_file('README.md', "["+link+"]("+link+")")
         write_to_file('README.md', '<br />')
-        write_to_file('README.md', '<span style="color:red">' +
-                      resultaat+'</span>')
+        write_to_file('README.md', resultaat)
         write_to_file('README.md', '<br />')
     
