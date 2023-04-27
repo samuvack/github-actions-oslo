@@ -222,13 +222,13 @@ def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geen
             # link van klasse zelf checken
             if "fixme" in list(entiteit.values())[0][0]['link']:
                 geenfixme += 1
-                resultaat += "fixme gevonden in de link van klasse \"{}\"  \ ".format(
+                resultaat += "fixme gevonden in de link van klasse \"{}\"   ".format(
                     list(entiteit.keys())[0])
                 resultaat += "\n"
 
             # beschrijving van de klasse zelf checken
             if list(entiteit.values())[0][1]['beschrijving'] == "":
-                resultaat += "Geen beschrijving gevonden bij klasse \"{}\"  \ ".format(
+                resultaat += "Geen beschrijving gevonden bij klasse \"{}\"   ".format(
                     list(entiteit.keys())[0])
                 resultaat += "\n"
 
@@ -241,7 +241,7 @@ def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geen
             if "fixme" in cel[list(cel.keys())[0]]:
                 geenfixme += 1
 
-                resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"  \ ".format(
+                resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"   ".format(
                     attribuut, list(entiteit.keys())[0])
                 resultaat += "\n"
             cel = attributen[1]
@@ -249,25 +249,25 @@ def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geen
                 if "fixme" in cel[list(cel.keys())[0]]:
                     geenfixme += 1
     
-                    resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\" \ ".format(
+                    resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"  ".format(
                         attribuut, list(entiteit.keys())[0])
                     resultaat += "\n"
             except:
                 geentype = geentype + 1
-                resultaat += "Geen verwacht type gevonden bij attribuut \"{}\" van klasse \"{}\"  \ ".format(
+                resultaat += "Geen verwacht type gevonden bij attribuut \"{}\" van klasse \"{}\"   ".format(
                     attribuut, list(entiteit.keys())[0])
                 resultaat += "\n"
             cel = attributen[2]
             if cel == "":
                 geenkardinaliteit = geenkardinaliteit + 1
-                resultaat += "Kardinaliteit ontbreekt in attribuut \"{}\" van klasse \"{}\" \ ".format(
+                resultaat += "Kardinaliteit ontbreekt in attribuut \"{}\" van klasse \"{}\"  ".format(
                     attribuut, list(entiteit.keys())[0])
                 resultaat += "\n"
             cel = attributen[3]
             if cel == "":
                 geendefinitie = geendefinitie + 1
                 
-                resultaat += "Definitie ontbreekt in attribuut \"{}\" van klasse \"{}\" \ ".format(
+                resultaat += "Definitie ontbreekt in attribuut \"{}\" van klasse \"{}\"  ".format(
                     attribuut, list(entiteit.keys())[0])
                 resultaat += "\n"
 
