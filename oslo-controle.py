@@ -202,12 +202,12 @@ def analyse(data):
 
             # link van klasse zelf checken
             if "fixme" in list(entiteit.values())[0][0]['link']:
-                resultaat += "fixme gevonden in de link van klasse \"{}\"\n".format(
+                resultaat += "fixme gevonden in de link van klasse \"{}\"<br>".format(
                     list(entiteit.keys())[0])
 
             # beschrijving van de klasse zelf checken
             if list(entiteit.values())[0][1]['beschrijving'] == "":
-                resultaat += "Geen beschrijving gevonden bij klasse \"{}\"\n".format(
+                resultaat += "Geen beschrijving gevonden bij klasse \"{}\"<br>".format(
                     list(entiteit.keys())[0])
 
             # attributen hier overlopen
@@ -217,23 +217,23 @@ def analyse(data):
 
             cel = attributen[0]
             if "fixme" in cel[list(cel.keys())[0]]:
-                resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"\n".format(
+                resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"<br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[1]
             try:
                 if "fixme" in cel[list(cel.keys())[0]]:
-                    resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"\n".format(
+                    resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"<br>".format(
                         attribuut, list(entiteit.keys())[0])
             except:
-                resultaat += "Geen verwacht type gevonden bij attribuut \"{}\" van klasse \"{}\"\n".format(
+                resultaat += "Geen verwacht type gevonden bij attribuut \"{}\" van klasse \"{}\"<br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[2]
             if cel == "":
-                resultaat += "Kardinaliteit ontbreekt in attribuut \"{}\" van klasse \"{}\"\n".format(
+                resultaat += "Kardinaliteit ontbreekt in attribuut \"{}\" van klasse \"{}\"<br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[3]
             if cel == "":
-                resultaat += "Definitie ontbreekt in attribuut \"{}\" van klasse \"{}\"\n".format(
+                resultaat += "Definitie ontbreekt in attribuut \"{}\" van klasse \"{}\"<br>".format(
                     attribuut, list(entiteit.keys())[0])
 
     if resultaat == "":
