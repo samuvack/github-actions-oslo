@@ -284,7 +284,6 @@ links = ['https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/', '
 create_empty_file(outputfile)
 write_to_file(outputfile, "## OSLO applicatie profielen HTML validatie")
 write_to_file(outputfile, '\n')
-write_to_file(outputfile, "\\")
 
 
 # using now() to get current time
@@ -294,8 +293,10 @@ current_time = datetime.now()
 print(current_time)
 
 write_to_file(
-    '../README.md', """```diff
-    ! Dit document is automatisch gegenereerd op : """ + str(current_time) + """```""")
+    '../README.md',
+"""```diff
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+```""")
 write_to_file(outputfile, '\n')
 
 text = ''
@@ -321,14 +322,17 @@ for link in links:
         text += '\n'
         text += resultaat
         text += '\\'
+        text += '\n'
         
     
 overview = """
-| Fixme gevonden in attribuut               | """ + str(geenfixme)  + """  |
-| Geen verwacht type gevonden bij attribuut | """ + str(geentype)   + """  |
-| Kardinaliteit ontbreekt in attribuut      | """ + str(geenkardinaliteit)  + """  |
-| Definitie ontbreekt in attribuut          | """ + str(geendefinitie) + """  |
-| Geen beschrijving gevonden bij klasse     | """ + str(geenbeschrijving) + """  |
+| Onbrekende gegevens               | Aantal  |
+| ----------------------------              | --------------------------  |
+| Fixme gevonden in attribuut               | """ + str(geenfixme)  + """  | \n
+| Geen verwacht type gevonden bij attribuut | """ + str(geentype)   + """  | \n
+| Kardinaliteit ontbreekt in attribuut      | """ + str(geenkardinaliteit)  + """  | \n
+| Definitie ontbreekt in attribuut          | """ + str(geendefinitie) + """  | \n
+| Geen beschrijving gevonden bij klasse     | """ + str(geenbeschrijving) + """  | \n
 """
 
 
