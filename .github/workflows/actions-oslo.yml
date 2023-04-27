@@ -32,7 +32,7 @@ jobs:
         run: sudo apt-get install xvfb
           
       - name: execute py script # run main.py
-        run: python oslo-controle.py
+        run: python scripts/oslo-applicatieprofiel-controle.py
       
       
       - name: e-mail
