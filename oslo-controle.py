@@ -267,20 +267,21 @@ write_to_file('README.md', '<br />')
 
 
 # using now() to get current time
-current_time = datetime.now() + timedelta(hours=2)
+current_time = datetime.now() + timedelta(hours=1)
 
 # Printing value of now.
 print(current_time)
 
 write_to_file(
-    'README.md', '```diff ! Dit document is automatisch gevalideerd op : ' + str(current_time) + '```')
+    'README.md', """```diff
+    ! Dit document is automatisch gevalideerd op : """ + str(current_time) + """```""")
 write_to_file('README.md', '<br />')
 
 for link in links:
     data = getData(link, driver)
     resultaat = analyse(data, geenfixme, geenbeschrijving,
                         geentype, geenkardinaliteit, geendefenitie)[0]
-    if (resultaat == "Alles is in orde!"):
+    if (resultaat == """Alles is in orde!"""):
         print(link, "<br />")
         print(resultaat, "<br /><br />")
         write_to_file('README.md', '<br />')
