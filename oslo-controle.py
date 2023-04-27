@@ -4,8 +4,9 @@ from selenium import webdriver
 import json
 import os
 from pprintpp import pprint
+from datetime import datetime, timedelta
 
-
+"""
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -13,8 +14,7 @@ import chromedriver_autoinstaller
 from pyvirtualdisplay import Display
 display = Display(visible=0, size=(800, 800))
 display.start()
-import datetime
-tz = pytz.timezone('Europe/Paris')
+
 
 # Check if the current version of chromedriver exists
 chromedriver_autoinstaller.install()
@@ -43,7 +43,7 @@ for option in options:
 
 
 driver = webdriver.Chrome(options=chrome_options)
-
+"""
 
 
 
@@ -202,20 +202,20 @@ geenkardinaliteit = 0
 geendefenitie = 0
 text = ""
 
-def analyse(data):
+
+def analyse(data, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geendefenitie):
     resultaat = ""
     for soort in data:
         for entiteit in data[soort]:
 
             # link van klasse zelf checken
             if "fixme" in list(entiteit.values())[0][0]['link']:
-                geenfixme += 1
+                geenfixme = geenfixme + 1
                 resultaat += "```diff \ - fixme gevonden in de link van klasse \"{}\" ``` <br>".format(
                     list(entiteit.keys())[0])
 
             # beschrijving van de klasse zelf checken
             if list(entiteit.values())[0][1]['beschrijving'] == "":
-                geenbeschrijving += 1
                 resultaat += "```diff \ - Geen beschrijving gevonden bij klasse \"{}\" ``` <br>".format(
                     list(entiteit.keys())[0])
 
@@ -226,31 +226,34 @@ def analyse(data):
 
             cel = attributen[0]
             if "fixme" in cel[list(cel.keys())[0]]:
-                geenfixme += 1
+                geenfixme = geenfixme + 1
                 resultaat += "```diff \ - fixme gevonden in attribuut \"{}\" van klasse \"{}\" ``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[1]
             try:
                 if "fixme" in cel[list(cel.keys())[0]]:
-                    geenfixme += 1
+                    geenfixme = geenfixme + 1
                     resultaat += "```diff \ - fixme gevonden in attribuut \"{}\" van klasse \"{}\"``` <br>".format(
                         attribuut, list(entiteit.keys())[0])
             except:
+                geentype = geentype + 1
                 resultaat += "```diff \ - Geen verwacht type gevonden bij attribuut \"{}\" van klasse \"{}\" ``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[2]
             if cel == "":
+                geenkardinaliteit = geenkardinaliteit + 1
                 resultaat += "```diff \ - Kardinaliteit ontbreekt in attribuut \"{}\" van klasse \"{}\"``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[3]
             if cel == "":
+                geendefenitie = geendefenitie + 1
                 resultaat += "```diff \ - Definitie ontbreekt in attribuut \"{}\" van klasse \"{}\"``` <br>".format(
                     attribuut, list(entiteit.keys())[0])
 
     if resultaat == "":
         resultaat += "```diff \ + Alles is in orde!```"
 
-    return resultaat
+    return resultaat, geenfixme, geenbeschrijving, geentype, geenkardinaliteit, geendefenitie
 
 
 driver = webdriver.Chrome()
@@ -264,7 +267,7 @@ write_to_file('README.md', '<br />')
 
 
 # using now() to get current time
-current_time = datetime.datetime.now(tz=tz)
+current_time = datetime.now() + timedelta(hours=2)
 
 # Printing value of now.
 print(current_time)
@@ -275,14 +278,17 @@ write_to_file('README.md', '<br />')
 
 for link in links:
     data = getData(link, driver)
-    resultaat = analyse(data)
+    resultaat = analyse(data, geenfixme, geenbeschrijving,
+                        geentype, geenkardinaliteit, geendefenitie)[0]
     if (resultaat == "Alles is in orde!"):
         print(link, "<br />")
         print(resultaat, "<br /><br />")
         write_to_file('README.md', '<br />')
         write_to_file('README.md', "["+link+"]("+link+")")
         write_to_file('README.md', '<br />')
+        print(resultaat)
         write_to_file('README.md', resultaat)
+        
         write_to_file('README.md', '<br />')
     else:
         print(link, "<br />")
@@ -290,6 +296,7 @@ for link in links:
         write_to_file('README.md', '<br />')
         write_to_file('README.md', "["+link+"]("+link+")")
         write_to_file('README.md', '<br />')
+        print(resultaat)
         write_to_file('README.md', resultaat)
         write_to_file('README.md', '<br />')
     
