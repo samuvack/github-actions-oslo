@@ -1,3 +1,4 @@
+from pytz import timezone
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import json
@@ -13,6 +14,7 @@ from pyvirtualdisplay import Display
 display = Display(visible=0, size=(800, 800))
 display.start()
 import datetime
+tz = pytz.timezone('Europe/Paris')
 
 # Check if the current version of chromedriver exists
 chromedriver_autoinstaller.install()
@@ -193,7 +195,11 @@ def getData(link, driver):
     return stanDict
 
 # analyseer het AP
-
+geenfixme = 0
+geenbeschrijving = 0
+geentype = 0
+geenkardinaliteit = 0
+geendefenitie = 0
 
 def analyse(data):
     resultaat = ""
@@ -202,11 +208,13 @@ def analyse(data):
 
             # link van klasse zelf checken
             if "fixme" in list(entiteit.values())[0][0]['link']:
+                geenfixme += 1
                 resultaat += "fixme gevonden in de link van klasse \"{}\"<br>".format(
                     list(entiteit.keys())[0])
 
             # beschrijving van de klasse zelf checken
             if list(entiteit.values())[0][1]['beschrijving'] == "":
+                geenbeschrijving += 1
                 resultaat += "Geen beschrijving gevonden bij klasse \"{}\"<br>".format(
                     list(entiteit.keys())[0])
 
@@ -217,11 +225,13 @@ def analyse(data):
 
             cel = attributen[0]
             if "fixme" in cel[list(cel.keys())[0]]:
+                geenfixme += 1
                 resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"<br>".format(
                     attribuut, list(entiteit.keys())[0])
             cel = attributen[1]
             try:
                 if "fixme" in cel[list(cel.keys())[0]]:
+                    geenfixme += 1
                     resultaat += "fixme gevonden in attribuut \"{}\" van klasse \"{}\"<br>".format(
                         attribuut, list(entiteit.keys())[0])
             except:
@@ -253,7 +263,7 @@ write_to_file('README.md', '<br />')
 
 
 # using now() to get current time
-current_time = datetime.datetime.now()
+current_time = datetime.datetime.now(tz=tz)
 
 # Printing value of now.
 print(current_time)

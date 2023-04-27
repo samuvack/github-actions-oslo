@@ -6,3 +6,4 @@ bs4
 selenium
 lxml
 datetime
+pytz
