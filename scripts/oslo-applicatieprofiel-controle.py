@@ -5,13 +5,7 @@ import json
 import os
 from pprintpp import pprint
 from datetime import datetime, timedelta
-
-outputfile = '../README.md'
-controle_app = '../output/controle_applicatieprofiel.md'
-
 from selenium import webdriver
-
-
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import chromedriver_autoinstaller
@@ -44,12 +38,15 @@ options = [
     # '--remote-debugging-port=9222'
 ]
 
-
 for option in options:
     chrome_options.add_argument(option)
 
 
 driver = webdriver.Chrome(options=chrome_options)
+
+
+outputfile = '../README.md'
+controle_app = '../output/controle_applicatieprofiel.md'
 
 
 
@@ -65,8 +62,8 @@ def create_empty_file(filename):
         None
     """
     try:
-        with open(filename, 'w') as file:
-            pass
+        with open(filename, 'r+') as file:
+            file.truncate(0)
         print(f'Success: Empty file "{filename}" created.')
     except IOError as e:
         print(f'Error: Failed to create empty file. {e}')
