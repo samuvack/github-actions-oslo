@@ -336,11 +336,11 @@ for link in links:
 overview = """
 | Onbrekende gegevens               | Aantal  |
 | ----------------------------              | --------------------------  |
-| Fixme gevonden in attribuut               | """ + str(geenfixme)  + """  | \n
-| Geen verwacht type gevonden bij attribuut | """ + str(geentype)   + """  | \n
-| Kardinaliteit ontbreekt in attribuut      | """ + str(geenkardinaliteit)  + """  | \n
-| Definitie ontbreekt in attribuut          | """ + str(geendefinitie) + """  | \n
-| Geen beschrijving gevonden bij klasse     | """ + str(geenbeschrijving) + """  | \n
+| Fixme gevonden in attribuut               | """ + str(geenfixme)  + """  |
+| Geen verwacht type gevonden bij attribuut | """ + str(geentype)   + """  |
+| Kardinaliteit ontbreekt in attribuut      | """ + str(geenkardinaliteit)  + """  |
+| Definitie ontbreekt in attribuut          | """ + str(geendefinitie) + """  |
+| Geen beschrijving gevonden bij klasse     | """ + str(geenbeschrijving) + """  |
 """
 
 
