@@ -32,7 +32,7 @@ jobs:
         run: sudo apt-get install xvfb
           
       - name: execute py script # run main.py
-        run: python oslo-applicatieprofiel-controle.py & python controle_dead_links.py
+        run: python ./script/oslo-applicatieprofiel-controle.py & python ./script/controle_dead_links.py
       
       
       - name: e-mail
