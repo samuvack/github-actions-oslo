@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-08 15:07:25.314060
+! Dit document is automatisch gegenereerd op : 2023-05-08 15:12:10.986544
 ```
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-bedrijventerrein.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-besluit-publicatie.html
@@ -26,12 +26,3 @@ https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-perce
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-toeristische-logies-basis.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vervoersknooppunten.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/data-standaarden-wegenenverkeer.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/generieke-hypermedia-api.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-begraafplaatsenbeheer.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-begroeid-voorkomen.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-infrastructuurelementen.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-onbegroeid-voorkomen.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-terreindelen.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-vegetatie-elementen.html
-https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-water-voorkomen.html

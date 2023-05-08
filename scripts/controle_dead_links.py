@@ -130,7 +130,7 @@ for line in lines:
                 text += '\n'
                 #write_to_file(outputfile, 'url is broken [' + urls[i] + ')')
                 #write_to_file(outputfile, '\n')
-            if (text != '') & (i == len(urls)):
+            if (text != '') & (i == len(urls)-1):
                 text += '\n'
                 text += '--------------------------------------------------'
         write_to_file(outputfile, str(text))
