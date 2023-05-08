@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-08 15:00:40.284732
+! Dit document is automatisch gegenereerd op : 2023-05-08 15:03:30.795399
 ```
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-bedrijventerrein.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-besluit-publicatie.html
@@ -10,3 +10,18 @@ https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-cultu
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dienst-transactiemodel.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dossier.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-generieke-terugmeldfaciliteit.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-issue-tracking-voor-burgers-en-organisaties.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-ldes.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mandatendatabank.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-metadata-dcat.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-stopplaatsen.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-tijdstabellen.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-voertuigplanning.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-trips-en-aanbod.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-notificatie-basis.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-openbaar-domein.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-perceel.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-toeristische-logies-basis.html
+https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vervoersknooppunten.html
