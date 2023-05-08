@@ -11,7 +11,7 @@ controle_app = '../output/controle_applicatieprofiel.md'
 
 from selenium import webdriver
 
-"""
+
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import chromedriver_autoinstaller
@@ -50,7 +50,7 @@ for option in options:
 
 
 driver = webdriver.Chrome(options=chrome_options)
-"""
+
 
 
 
