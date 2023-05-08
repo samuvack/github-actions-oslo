@@ -138,4 +138,4 @@ write_to_file('../README.md', str(number_of_deadlinks) +
 write_to_file(
     '../README.md','\n')
 write_to_file(
-    '../README.md', 'Voor meer informatie, ga naar [dit overzicht]("../output/dead_links.md")')
+    '../README.md', 'Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)')

@@ -348,4 +348,4 @@ write_to_file(outputfile, overview)
 write_to_file(controle_app, text)
 write_to_file(outputfile, '\n')
 write_to_file(outputfile,
-              'Voor meer informatie, ga naar [dit overzicht]("../output/controle_applicatieprofiel.md")')
+              'Voor meer informatie, ga naar [dit overzicht](output/controle_applicatieprofiel.md)')
