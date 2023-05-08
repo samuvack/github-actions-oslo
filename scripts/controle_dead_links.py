@@ -9,7 +9,7 @@ driver = webdriver.Chrome()
 
 outputfile = '../output/dead_links.md'
 
-file1 = open('./dead_link_urls.txt', 'r')
+file1 = open('./dead_link_urls.md', 'r')
 lines = file1.readlines()
 
 
@@ -55,7 +55,7 @@ def write_to_file(filename, parameter):
 global number_of_deadlinks
 number_of_deadlinks = 0
 create_empty_file(outputfile)
-create_empty_file('../log/checked.txt')
+create_empty_file('../log/checked.md')
 
 # using now() to get current time
 current_time = datetime.now()
@@ -69,11 +69,11 @@ write_to_file(outputfile, '\n')
 
 
 write_to_file(
-    '../log/checked.txt',
+    '../log/checked.md',
     """```diff
 ! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
 ```""")
-write_to_file('../log/checked.txt', '\n')
+write_to_file('../log/checked.md', '\n')
 
 
 for line in lines:
@@ -130,7 +130,7 @@ for line in lines:
                 #write_to_file(outputfile, 'url is broken (' + urls[i] + ')')
                 #write_to_file(outputfile, '\n')
         write_to_file(outputfile, str(text))
-        write_to_file('../log/checked.txt', str(line))
+        write_to_file('../log/checked.md', str(line))
         
 write_to_file('../README.md', '\n')
 write_to_file('../README.md', str(number_of_deadlinks) +
