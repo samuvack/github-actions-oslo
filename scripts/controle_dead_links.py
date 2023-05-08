@@ -6,14 +6,10 @@ import re
 
 driver = webdriver.Chrome()
 
-outputfile = '../output_standaarden.md'
+outputfile = '../output/dead_links.md'
 
-file1 = open('test.txt', 'r')
+file1 = open('./dead_link_urls.txt', 'r')
 lines = file1.readlines()
-
-file1 = open('checked.txt', 'r')
-linechecked = file1.readlines()
-start = len(linechecked)
 
 
 def create_empty_file(filename):
@@ -55,17 +51,9 @@ def write_to_file(filename, parameter):
     finally:
         file.close()
 
-if start == 0:
-    create_empty_file(outputfile)
 
-i = 0
 
 for line in lines:
-    if i <= start:
-        i = i +1
-        continue
-    else:
-        
         link = str(line) #'https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---uitbreiding-begraafplaats-(vocabularium).html'
         #print(link)
         #write_to_file(outputfile, '\n')
@@ -79,8 +67,11 @@ for line in lines:
 
 
         def validate_url(url):
-            r = requests.head(url)
-            if str(r.status_code) == '404':
+            try:
+                r = requests.head(url)
+                if str(r.status_code) == '404':
+                    return True
+            except IOError as e:
                 return True
 
 
@@ -115,6 +106,6 @@ for line in lines:
                 #write_to_file(outputfile, 'url is broken (' + urls[i] + ')')
                 #write_to_file(outputfile, '\n')
         write_to_file(outputfile, str(text))
-        write_to_file('checked.txt', str(line))
+        write_to_file('../log/checked.txt', str(line))
 
         

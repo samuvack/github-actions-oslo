@@ -44,7 +44,7 @@ with open('data.json', 'r') as json_file:
 markdown = generate_markdown(data)
 
 # Write Markdown string to file
-write_to_file('output.md', markdown)
+write_to_file('./output/output.md', markdown)
 
 print("Markdown file has been generated successfully!")
 
