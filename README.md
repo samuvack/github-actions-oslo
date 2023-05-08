@@ -16,6 +16,9 @@
 | Geen beschrijving gevonden bij klasse     | 8  | 
 
 
-Voor meer informatie, ga naar [dit overzicht]("../output/controle_applicatieprofiel.md")
-30 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht]("../output/dead_links.md")
+Voor meer informatie, ga naar [dit overzicht]("output/controle_applicatieprofiel.md")
+
+
+30 dode linken gevonden in het standaardregister 
+
+Voor meer informatie, ga naar [dit overzicht]("output/dead_links.md")
