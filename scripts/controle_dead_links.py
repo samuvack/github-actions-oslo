@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import re
+from datetime import datetime, timedelta
 
 driver = webdriver.Chrome()
 
@@ -51,6 +52,28 @@ def write_to_file(filename, parameter):
     finally:
         file.close()
 
+global number_of_deadlinks
+number_of_deadlinks = 0
+create_empty_file(outputfile)
+create_empty_file('../log/checked.txt')
+
+# using now() to get current time
+current_time = datetime.now()
+
+write_to_file(
+    outputfile,
+    """```diff
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+```""")
+write_to_file(outputfile, '\n')
+
+
+write_to_file(
+    '../log/checked.txt',
+    """```diff
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+```""")
+write_to_file('../log/checked.txt', '\n')
 
 
 for line in lines:
@@ -93,6 +116,7 @@ for line in lines:
 
         for i in range(0, len(urls)):
             if validate_url(urls[i]):
+                number_of_deadlinks = number_of_deadlinks+1
                 if text == '':
                     text += '\n'
                     text += '\n'
@@ -107,5 +131,11 @@ for line in lines:
                 #write_to_file(outputfile, '\n')
         write_to_file(outputfile, str(text))
         write_to_file('../log/checked.txt', str(line))
-
         
+write_to_file('../README.md', '\n')
+write_to_file('../README.md', str(number_of_deadlinks) +
+              ' dode linken gevonden in het standaardregister')
+write_to_file(
+    '../README.md','\n')
+write_to_file(
+    '../README.md', 'Voor meer informatie, ga naar [dit overzicht]("../output/dead_links.md")')

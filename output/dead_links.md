@@ -1,3 +1,9 @@
+```diff
+! Dit document is automatisch gegenereerd op : 2023-05-08 14:08:18.942000
+```
+
+
+
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
 
 url is broken (https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b)
