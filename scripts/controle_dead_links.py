@@ -9,7 +9,7 @@ driver = webdriver.Chrome()
 
 outputfile = '../output/dead_links.md'
 
-file1 = open('./dead_link_urls.md', 'r')
+file1 = open('./dead_link_urls.txt', 'r')
 lines = file1.readlines()
 
 
@@ -121,7 +121,7 @@ for line in lines:
                     text += '\n'
                     text += '\n'
                     text += '\n'
-                    text += str(line)
+                    text += '('+str(line)+')['+str(line)+']'
                     text += '\n'
 
                 text += 'url is broken (' + \
@@ -129,7 +129,8 @@ for line in lines:
                 text += '\n'
                 #write_to_file(outputfile, 'url is broken (' + urls[i] + ')')
                 #write_to_file(outputfile, '\n')
-            if text != '':
+            if (text != '') & (i == len(urls)):
+                text += '\n'
                 text += '--------------------------------------------------'
         write_to_file(outputfile, str(text))
         
