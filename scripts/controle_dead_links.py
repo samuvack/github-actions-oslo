@@ -123,9 +123,10 @@ for line in lines:
                     text += '\n'
                     text += '['+str(line)+']('+str(line)+')'
                     text += '\n'
+                    text += '\n'
 
-                text += 'url is broken [' + \
-                    str(urls[i]) + ']('+str(urls[i])+') \n'
+                text += 'url is broken ["' + \
+                    str(urls[i]) + '"]("'+str(urls[i])+'") \n'
                 text += '\n'
                 #write_to_file(outputfile, 'url is broken [' + urls[i] + ')')
                 #write_to_file(outputfile, '\n')
