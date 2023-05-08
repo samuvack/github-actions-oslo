@@ -124,12 +124,16 @@ for line in lines:
                     text += str(line)
                     text += '\n'
 
-                print('url is broken (' + str(urls[i]) + ')')
-                text += 'url is broken (' + str(urls[i]) + ')'
+                text += 'url is broken (' + \
+                    str(urls[i]) + ')['+str(urls[i])+'] \n'
                 text += '\n'
                 #write_to_file(outputfile, 'url is broken (' + urls[i] + ')')
                 #write_to_file(outputfile, '\n')
+            if text != '':
+                text += '--------------------------------------------------'
         write_to_file(outputfile, str(text))
+        
+        
         write_to_file('../log/checked.md', str(line))
         
 write_to_file('../README.md', '\n')
