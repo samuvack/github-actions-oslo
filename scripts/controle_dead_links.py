@@ -6,6 +6,7 @@ import re
 from datetime import datetime, timedelta
 
 
+
 outputfile = '../output/dead_links.md'
 
 file1 = open('./dead_link_urls.txt', 'r')
