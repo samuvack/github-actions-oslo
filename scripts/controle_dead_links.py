@@ -1,5 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor
 import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
 import re
 from datetime import datetime, timedelta
 
@@ -97,8 +99,7 @@ for line in lines:
 
 
         response = requests.get(link)
-        soup = 
-        (response.text, 'html.parser')
+        soup = BeautifulSoup(response.text, 'html.parser')
         urls = []
         url_names = []
 
