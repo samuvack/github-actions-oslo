@@ -7,9 +7,9 @@ from datetime import datetime, timedelta
 
 
 
-outputfile = '../output/dead_links.md'
+outputfile = 'output/dead_links.md'
 
-file1 = open('./dead_link_urls.txt', 'r')
+file1 = open('scripts/dead_link_urls.txt', 'r')
 lines = file1.readlines()
 
 
@@ -55,7 +55,7 @@ def write_to_file(filename, parameter):
 global number_of_deadlinks
 number_of_deadlinks = 0
 create_empty_file(outputfile)
-create_empty_file('../log/checked.md')
+create_empty_file('log/checked.md')
 
 # using now() to get current time
 current_time = datetime.now()
@@ -69,11 +69,11 @@ write_to_file(outputfile, '\n')
 
 
 write_to_file(
-    '../log/checked.md',
+    'log/checked.md',
     """```diff
 ! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
 ```""")
-write_to_file('../log/checked.md', '\n')
+write_to_file('log/checked.md', '\n')
 
 
 for line in lines:
@@ -136,12 +136,12 @@ for line in lines:
         write_to_file(outputfile, str(text))
         
         
-        write_to_file('../log/checked.md', str(line))
+        write_to_file('log/checked.md', str(line))
         
-write_to_file('../README.md', '\n')
-write_to_file('../README.md', str(number_of_deadlinks) +
+write_to_file('README.md', '\n')
+write_to_file('README.md', str(number_of_deadlinks) +
               ' dode linken gevonden in het standaardregister')
 write_to_file(
-    '../README.md','\n')
+    'README.md','\n')
 write_to_file(
-    '../README.md', 'Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)')
+    'README.md', 'Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)')
