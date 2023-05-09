@@ -5,6 +5,8 @@ import json
 import os
 from pprintpp import pprint
 from datetime import datetime, timedelta
+
+"""
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -43,7 +45,7 @@ for option in options:
 
 
 driver = webdriver.Chrome(options=chrome_options)
-
+"""
 
 outputfile = '../README.md'
 controle_app = '../output/controle_applicatieprofiel.md'

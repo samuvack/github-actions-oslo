@@ -5,7 +5,6 @@ from selenium import webdriver
 import re
 from datetime import datetime, timedelta
 
-driver = webdriver.Chrome()
 
 outputfile = '../output/dead_links.md'
 
