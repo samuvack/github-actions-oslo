@@ -24,7 +24,7 @@ def create_empty_file(filename):
         None
     """
     try:
-        with open(filename, 'w') as file:
+        with open(filename, 'w', encoding='latin-1') as file:
             pass
         print(f'Success: Empty file "{filename}" created.')
     except IOError as e:
