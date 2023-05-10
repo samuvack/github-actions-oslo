@@ -62,7 +62,7 @@ def create_empty_file(filename):
         None
     """
     try:
-        with open(filename, 'r+') as file:
+        with open(filename, 'r+', errors='replace') as file:
             file.truncate(0)
         print(f'Success: Empty file "{filename}" created.')
     except IOError as e:
@@ -80,7 +80,7 @@ def write_to_file(filename, parameter):
         None
     """
     try:
-        with open(filename, 'a') as output:
+        with open(filename, 'a', errors='replace') as output:
             output.write(parameter)
         print(
             f'Success: Parameter "{parameter}" written to file "{filename}".')
