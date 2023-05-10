@@ -87,7 +87,7 @@ def write_to_file(filename, parameter):
     except IOError as e:
         print(f'Error: Failed to write parameter to file. {e}')
     finally:
-        file.close()
+        output.close()
 
 # haal data uit AP
 
