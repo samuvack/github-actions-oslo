@@ -13,6 +13,7 @@ file1 = open('scripts/dead_link_urls.txt', 'r')
 lines = file1.readlines()
 
 
+       
 def create_empty_file(filename):
     """
     Create an empty file.
@@ -24,12 +25,13 @@ def create_empty_file(filename):
         None
     """
     try:
-        with open(filename, 'w', encoding='latin-1') as file:
-            pass
+        with open(filename, 'r+',encoding='latin-1') as file:
+            file.truncate(0)
         print(f'Success: Empty file "{filename}" created.')
     except IOError as e:
         print(f'Error: Failed to create empty file. {e}')
-
+        
+        
 
 def write_to_file(filename, parameter):
     """
