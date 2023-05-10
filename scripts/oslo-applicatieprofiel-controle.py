@@ -5,8 +5,6 @@ import json
 import os
 from pprintpp import pprint
 from datetime import datetime, timedelta
-
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
