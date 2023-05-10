@@ -80,8 +80,8 @@ def write_to_file(filename, parameter):
         None
     """
     try:
-        with open(filename, 'a') as file:
-            file.write(parameter)
+        with open(filename, 'a') as output:
+            output.write(parameter)
         print(
             f'Success: Parameter "{parameter}" written to file "{filename}".')
     except IOError as e:
