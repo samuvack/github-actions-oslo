@@ -9,10 +9,15 @@ from datetime import datetime, timedelta
 
 outputfile = 'output/dead_links.md'
 
-file1 = open('scripts/dead_link_urls.txt', 'r')
-lines = file1.readlines()
 
+try:
+ with open('scripts/dead_link_urls.txt', 'r', encoding='latin-1') as file1:
+     lines = file1.readlines()
 
+except IOError as e:
+ print(f'Error: Failed to read file. {e}')
+finally:
+ file1.close()
        
 def create_empty_file(filename):
     """
@@ -53,6 +58,37 @@ def write_to_file(filename, parameter):
         print(f'Error: Failed to write parameter to file. {e}')
     finally:
         output.close()
+              
+              
+              
+
+
+def write_to_file(filename, parameter):
+    """
+    Write a parameter to a file.
+
+    Args:
+        parameter (str): The parameter to be written.
+        filename (str): The name of the file to write to.
+
+    Returns:
+        None
+    """
+    try:
+        with open(filename, 'a') as output:
+            output.write(parameter)
+        print(
+            f'Success: Parameter "{parameter}" written to file "{filename}".')
+    except IOError as e:
+        print(f'Error: Failed to write parameter to file. {e}')
+    finally:
+        output.close()
+
+# haal data uit AP              
+
+              
+              
+              
 
 global number_of_deadlinks
 number_of_deadlinks = 0
