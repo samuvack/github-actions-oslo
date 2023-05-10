@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-10 14:00:35.096614
+! Dit document is automatisch gegenereerd op : 2023-05-10 14:23:28.676020
 ```
 
 
@@ -41,6 +41,26 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-bedrijventerrein.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-bedrijventerrein.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/](<https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-kasten,-cabines,-behuizing.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-kasten,-cabines,-behuizing.html
+)
+
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO000098](<https://data.vlaanderen.be/id/organisatie/OVO000098>) 
 
 
 --------------------------------------------------
