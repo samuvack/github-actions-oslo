@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-10 14:23:28.676020
+! Dit document is automatisch gegenereerd op : 2023-05-10 21:25:33.352512
 ```
 
 
@@ -46,21 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-bedrijventerrein.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-bedrijventerrein.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
 )
 
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/](<https://data.vlaanderen.be/doc/applicatieprofiel/bedrijventerrein/>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-kasten,-cabines,-behuizing.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-kasten,-cabines,-behuizing.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO000098](<https://data.vlaanderen.be/id/organisatie/OVO000098>) 
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
