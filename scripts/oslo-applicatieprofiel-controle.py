@@ -45,8 +45,8 @@ for option in options:
 driver = webdriver.Chrome(options=chrome_options)
 
 
-outputfile = '../README.md'
-controle_app = '../controle_applicatieprofiel.md'
+outputfile = 'README.md'
+controle_app = 'output/controle_applicatieprofiel.md'
 
 
 
