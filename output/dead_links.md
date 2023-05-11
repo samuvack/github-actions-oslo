@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-11 05:18:22.420245
+! Dit document is automatisch gegenereerd op : 2023-05-11 06:25:05.481149
 ```
 
 
@@ -26,16 +26,6 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---uitbreiding-terreindelen-(vocabularium).html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---uitbreiding-terreindelen-(vocabularium).html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -51,26 +41,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-en-vocabularium-cultuurparticipatie.html
-](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-en-vocabularium-cultuurparticipatie.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/cultuurparticipatie](<https://data.vlaanderen.be/doc/applicatieprofiel/cultuurparticipatie>) 
 
 
 --------------------------------------------------
