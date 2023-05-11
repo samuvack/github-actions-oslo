@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-11 06:25:05.481149
+! Dit document is automatisch gegenereerd op : 2023-05-11 16:19:30.682962
 ```
 
 
@@ -46,6 +46,16 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+)
+
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-loongegevens.html
 ](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-loongegevens.html
 )
@@ -61,22 +71,6 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-loongegevens/ra
 )
 
 url is broken [https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister](<https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-en-applicatieprofiel-cultuur--en-jeugdinfrastructuur.html
-](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-en-applicatieprofiel-cultuur--en-jeugdinfrastructuur.html
-)
-
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220126_ThematicWorkshop1_Powerpoint_OSLOCultuurenJeugdinfrastructuur](<https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220126_ThematicWorkshop1_Powerpoint_OSLOCultuurenJeugdinfrastructuur>) 
-
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220222_ThematicWorkshop2_Powerpoint_OSLOCultuurenJeugdInfrastructuur](<https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220222_ThematicWorkshop2_Powerpoint_OSLOCultuurenJeugdInfrastructuur>) 
-
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220322_ThematicWorkshop3_Powerpoint_OSLOCultuurenJeugdInfrastructuur](<https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220322_ThematicWorkshop3_Powerpoint_OSLOCultuurenJeugdInfrastructuur>) 
-
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220510_ThematicWorkshop4_Powerpoint_OSLOCultuurenJeugdInfrastructuur](<https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/raw/standaardenregister/presentations/20220510_ThematicWorkshop4_Powerpoint_OSLOCultuurenJeugdInfrastructuur>) 
 
 
 --------------------------------------------------
