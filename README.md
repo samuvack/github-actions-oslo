@@ -1,6 +1,6 @@
 ## OSLO applicatie profielen HTML validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-09 08:54:27.080502
+! Dit document is automatisch gegenereerd op : 2023-05-11 14:40:26.883779
 ```
 
 | Onbrekende gegevens               | Aantal  |
@@ -12,21 +12,3 @@
 | Geen beschrijving gevonden bij klasse     | 8  |
 
 Voor meer informatie, ga naar [dit overzicht](output/controle_applicatieprofiel.md)
-14 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-14 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-16 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-15 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-16 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-17 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-14 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-16 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
-13 dode linken gevonden in het standaardregister
-Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
