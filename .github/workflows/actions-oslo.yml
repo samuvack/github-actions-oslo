@@ -33,10 +33,7 @@ jobs:
           
       - name: execute py script # run main.py
         run: python scripts/oslo-applicatieprofiel-controle.py 
-        
-      - name: execute py script # run main.py
-        run: python scripts/controle_dead_links.py     
-      
+              
       - name: e-mail
         run: git config --global user.email "samuel.vanackere@vlaanderen.be"
       - name: My name
