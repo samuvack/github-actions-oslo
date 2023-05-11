@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-11 16:19:30.682962
+! Dit document is automatisch gegenereerd op : 2023-05-11 17:13:41.891393
 ```
 
 
@@ -21,6 +21,16 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---uitbreiding-gebieden-(vocabularium).html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---uitbreiding-gebieden-(vocabularium).html
+)
+
+url is broken [https://data.vlaanderen.be/ns/openbaardomein/gebied/](<https://data.vlaanderen.be/ns/openbaardomein/gebied/>) 
 
 
 --------------------------------------------------
@@ -51,6 +61,26 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 )
 
 url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/ecologische-maatregelen/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/ecologische-maatregelen/>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-lijnvormige-elementen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-lijnvormige-elementen.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
