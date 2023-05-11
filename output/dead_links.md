@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-10 21:25:33.352512
+! Dit document is automatisch gegenereerd op : 2023-05-11 01:37:37.191690
 ```
 
 
@@ -51,6 +51,16 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 )
 
 url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-inbreuken-zwaar-vervoer.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-inbreuken-zwaar-vervoer.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
