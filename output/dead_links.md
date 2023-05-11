@@ -1,27 +1,7 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-11 18:17:49.519592
+! Dit document is automatisch gegenereerd op : 2023-05-11 23:15:32.056907
 ```
 
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-besluit-publicatie.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-besluit-publicatie.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/besluit-publicatie/](<https://data.vlaanderen.be/doc/applicatieprofiel/besluit-publicatie/>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-cultureel-erfgoed-event.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-cultureel-erfgoed-event.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-event](<https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-event>) 
-
-
---------------------------------------------------
 
 
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
@@ -66,11 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
 )
 
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
