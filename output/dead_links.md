@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-11 02:36:00.577343
+! Dit document is automatisch gegenereerd op : 2023-05-11 03:19:50.397504
 ```
 
 
@@ -16,31 +16,11 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-issue-tracking-voor-burgers-en-organisaties.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-issue-tracking-voor-burgers-en-organisaties.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-begraafplaats.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-begraafplaats.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
 
 
 --------------------------------------------------
@@ -61,16 +41,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-adresregister.html
-](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-adresregister.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
 
 
 --------------------------------------------------
