@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-11 01:37:37.191690
+! Dit document is automatisch gegenereerd op : 2023-05-11 02:36:00.577343
 ```
 
 
@@ -16,11 +16,31 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-issue-tracking-voor-burgers-en-organisaties.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-issue-tracking-voor-burgers-en-organisaties.html
+)
+
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-begraafplaats.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-begraafplaats.html
+)
+
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
 
 
 --------------------------------------------------
@@ -46,21 +66,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-adresregister.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-adresregister.html
 )
 
-url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-inbreuken-zwaar-vervoer.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-inbreuken-zwaar-vervoer.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
 
 
 --------------------------------------------------

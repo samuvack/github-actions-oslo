@@ -22,3 +22,5 @@ Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
 Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
 16 dode linken gevonden in het standaardregister
 Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
+17 dode linken gevonden in het standaardregister
+Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
