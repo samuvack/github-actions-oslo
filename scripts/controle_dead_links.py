@@ -177,8 +177,14 @@ for line in lines:
         write_to_file('log/checked.md', str(line))
         
 write_to_file('README.md', '\n')
+write_to_file('README.md', '\n')
+write_to_file('README.md', "## OSLO standaardenregister")
+write_to_file('README.md', '\n')
+
+write_to_file('README.md', '\n')
 write_to_file('README.md', str(number_of_deadlinks) +
               ' dode linken gevonden in het standaardregister')
+
 write_to_file(
     'README.md','\n')
 write_to_file(
