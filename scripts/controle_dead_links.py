@@ -96,12 +96,12 @@ create_empty_file(outputfile)
 create_empty_file('log/checked.md')
 
 # using now() to get current time
-current_time = datetime.now()
+current_time = datetime.now() + timedelta(hours=2)
 
 write_to_file(
     outputfile,
     """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
 ```""")
 write_to_file(outputfile, '\n')
 
@@ -109,7 +109,7 @@ write_to_file(outputfile, '\n')
 write_to_file(
     'log/checked.md',
     """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
 ```""")
 write_to_file('log/checked.md', '\n')
 
