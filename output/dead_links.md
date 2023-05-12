@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-12 04:17:48.017104
+! Dit document is automatisch gegenereerd op : 2023-05-12 08:17:43.431717
 ```
 
 
@@ -46,11 +46,31 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-perceel.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-perceel.html
 )
 
-url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO000039](<https://data.vlaanderen.be/id/organisatie/OVO000039>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-zone-30.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-zone-30.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
@@ -70,17 +90,7 @@ url is broken [https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister](<https
 ](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-en-applicatieprofiel-oslo-waterkwaliteit.html
 )
 
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/Verslag thematische werkgroep 1 - 9 november 2021.docx](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/Verslag thematische werkgroep 1 - 9 november 2021.docx>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-loongegevens.html
-](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-loongegevens.html
-)
-
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-loongegevens/raw/standaardenregister/presentations/OSLO Loongegevens - Thematische Werkgroep 4 (211221).pptx](<https://github.com/Informatievlaanderen/OSLOthema-loongegevens/raw/standaardenregister/presentations/OSLO Loongegevens - Thematische Werkgroep 4 (211221).pptx>) 
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/Verslag Thematische werkgroep 1 - 9 november 2021.docx](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/Verslag Thematische werkgroep 1 - 9 november 2021.docx>) 
 
 
 --------------------------------------------------

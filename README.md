@@ -1,6 +1,6 @@
-## OSLO applicatie profielen HTML validatie
+## OSLO standaarden validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-12 04:16:21.750149
+! Dit document is automatisch gegenereerd op : 2023-05-12 08:16:37.514649
 ```
 
 | Onbrekende gegevens               | Aantal  |
@@ -12,5 +12,8 @@
 | Geen beschrijving gevonden bij klasse     | 8  |
 
 Voor meer informatie, ga naar [dit overzicht](output/controle_applicatieprofiel.md)
-9 dode linken gevonden in het standaardregister
+
+## OSLO standaardenregister
+
+10 dode linken gevonden in het standaardregister
 Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
