@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-12 10:16:04.746783
+! Dit document is automatisch gegenereerd op : 2023-05-12 16:13:30.377936
 ```
 
 
@@ -26,6 +26,16 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/proces-en-methode-voor-de-ontwikkeling-en-erkenning-van-data-standaarden.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/proces-en-methode-voor-de-ontwikkeling-en-erkenning-van-data-standaarden.html
+)
+
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -41,16 +51,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-)
-
-url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
