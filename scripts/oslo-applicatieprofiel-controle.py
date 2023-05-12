@@ -294,14 +294,14 @@ print(current_time)
 write_to_file(
     outputfile,
 """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
 ```""")
 write_to_file(outputfile, '\n')
 
 write_to_file(
     controle_app,
     """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
 ```""")
 write_to_file(controle_app, '\n')
 
