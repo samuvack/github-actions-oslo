@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-12 08:17:43.431717
+! Dit document is automatisch gegenereerd op : 2023-05-12 09:15:19.744948
 ```
 
 
@@ -41,36 +41,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-perceel.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-perceel.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO000039](<https://data.vlaanderen.be/id/organisatie/OVO000039>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-hulpposten.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-zone-30.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-zone-30.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
