@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-12 21:11:55.181131
+! Dit document is automatisch gegenereerd op : 2023-05-12 22:15:38.752505
 ```
 
 
@@ -16,18 +16,8 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
-)
-
-url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-begroeid-voorkomen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-begroeid-voorkomen.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dienst-transactiemodel.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dienst-transactiemodel.html
 )
 
 url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
@@ -36,21 +26,11 @@ url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://dat
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-infrastructuurelementen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-infrastructuurelementen.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 )
 
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/infrastructuurelementen](<https://data.vlaanderen.be/doc/applicatieprofiel/infrastructuurelementen>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/onbegroeid-voorkomen](<https://data.vlaanderen.be/doc/applicatieprofiel/onbegroeid-voorkomen>) 
+url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
 
 
 --------------------------------------------------
@@ -71,6 +51,26 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+)
+
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-kasten,-cabines,-behuizing.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-kasten,-cabines,-behuizing.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
