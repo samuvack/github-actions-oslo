@@ -286,7 +286,7 @@ write_to_file(outputfile, '\n')
 
 
 # using now() to get current time
-current_time = datetime.now()
+current_time = datetime.now() + timedelta(hours=2)
 
 # Printing value of now.
 print(current_time)
@@ -294,14 +294,14 @@ print(current_time)
 write_to_file(
     outputfile,
 """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
 ```""")
 write_to_file(outputfile, '\n')
 
 write_to_file(
     controle_app,
     """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
 ```""")
 write_to_file(controle_app, '\n')
 
