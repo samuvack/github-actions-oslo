@@ -101,7 +101,7 @@ current_time = datetime.now()
 write_to_file(
     outputfile,
     """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
 ```""")
 write_to_file(outputfile, '\n')
 
@@ -109,7 +109,7 @@ write_to_file(outputfile, '\n')
 write_to_file(
     'log/checked.md',
     """```diff
-! Dit document is automatisch gegenereerd op : """ + str(current_time) + """
+! Dit document is automatisch gegenereerd op : """ + str(current_time+3) + """
 ```""")
 write_to_file('log/checked.md', '\n')
 
