@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-13 22:15:51.467031
+! Dit document is automatisch gegenereerd op : 2023-05-13 23:12:41.569265
 ```
 
 
@@ -46,11 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
 )
 
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO000096](<https://data.vlaanderen.be/id/organisatie/OVO000096>) 
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
