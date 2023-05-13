@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-13 08:18:37.234322
+! Dit document is automatisch gegenereerd op : 2023-05-13 10:17:24.121726
 ```
 
 
@@ -26,6 +26,16 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen](<https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -46,11 +56,21 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
 )
 
-url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-levenscyclus.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-levenscyclus.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be/ns/levenscyclus/](<https://wegenenverkeer.data.vlaanderen.be/ns/levenscyclus/>) 
 
 
 --------------------------------------------------
