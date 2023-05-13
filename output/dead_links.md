@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-13 21:11:37.135912
+! Dit document is automatisch gegenereerd op : 2023-05-13 22:15:51.467031
 ```
 
 
@@ -26,16 +26,6 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-terreindeel.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-terreindeel.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -56,11 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
 )
 
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO000096](<https://data.vlaanderen.be/id/organisatie/OVO000096>) 
 
 
 --------------------------------------------------
