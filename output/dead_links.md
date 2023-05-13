@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-13 10:17:24.121726
+! Dit document is automatisch gegenereerd op : 2023-05-13 13:13:08.721153
 ```
 
 
@@ -26,16 +26,6 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen](<https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -56,21 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-ecologische-maatregelen.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-dynamische-borden.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-dynamische-borden.html
 )
 
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-levenscyclus.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-levenscyclus.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be/ns/levenscyclus/](<https://wegenenverkeer.data.vlaanderen.be/ns/levenscyclus/>) 
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO000098](<https://data.vlaanderen.be/id/organisatie/OVO000098>) 
 
 
 --------------------------------------------------
