@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-14 07:14:03.002655
+! Dit document is automatisch gegenereerd op : 2023-05-14 09:14:27.821740
 ```
 
 
@@ -26,6 +26,16 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-waterdelen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-waterdelen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/waterdelen/](<https://data.vlaanderen.be/doc/applicatieprofiel/waterdelen/>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -41,6 +51,16 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dossier.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dossier.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/dossier/erkendestandaard/2021-02-04](<https://data.vlaanderen.be/doc/vocabularium/dossier/erkendestandaard/2021-02-04>) 
 
 
 --------------------------------------------------
