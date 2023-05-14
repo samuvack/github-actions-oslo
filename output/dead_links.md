@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-14 11:13:44.502615
+! Dit document is automatisch gegenereerd op : 2023-05-14 12:14:38.446795
 ```
 
 
@@ -16,31 +16,11 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-generieke-terugmeldfaciliteit.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-generieke-terugmeldfaciliteit.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-watervoorkomen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-watervoorkomen.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/watervoorkomen](<https://data.vlaanderen.be/doc/applicatieprofiel/watervoorkomen>) 
 
 
 --------------------------------------------------
@@ -61,6 +41,16 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+)
+
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
