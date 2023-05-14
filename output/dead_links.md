@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-14 09:14:27.821740
+! Dit document is automatisch gegenereerd op : 2023-05-14 11:13:44.502615
 ```
 
 
@@ -16,6 +16,16 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-generieke-terugmeldfaciliteit.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-generieke-terugmeldfaciliteit.html
+)
+
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 )
@@ -26,11 +36,11 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-waterdelen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein---applicatieprofiel-waterdelen.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-watervoorkomen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-watervoorkomen.html
 )
 
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/waterdelen/](<https://data.vlaanderen.be/doc/applicatieprofiel/waterdelen/>) 
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/watervoorkomen](<https://data.vlaanderen.be/doc/applicatieprofiel/watervoorkomen>) 
 
 
 --------------------------------------------------
@@ -51,16 +61,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dossier.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dossier.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/vocabularium/dossier/erkendestandaard/2021-02-04](<https://data.vlaanderen.be/doc/vocabularium/dossier/erkendestandaard/2021-02-04>) 
 
 
 --------------------------------------------------
