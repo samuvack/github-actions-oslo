@@ -1,7 +1,17 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-15 10:19:08.192968
+! Dit document is automatisch gegenereerd op : 2023-05-15 11:15:24.831907
 ```
 
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-contactvoorkeuren.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-contactvoorkeuren.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/contactvoorkeuren/](<https://data.vlaanderen.be/doc/applicatieprofiel/contactvoorkeuren/>) 
+
+
+--------------------------------------------------
 
 
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
@@ -21,16 +31,6 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/begraafplaatsen](<https://data.vlaanderen.be/doc/applicatieprofiel/begraafplaatsen>) 
 
 
 --------------------------------------------------
@@ -56,11 +56,21 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-slagbomen-en-doorsteken.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-slagbomen-en-doorsteken.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-complexe-datatypes.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-complexe-datatypes.html
 )
 
-url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/slagboom-doorsteek/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/slagboom-doorsteek/>) 
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-installatie.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-installatie.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
