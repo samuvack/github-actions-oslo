@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-15 04:34:46.248018
+! Dit document is automatisch gegenereerd op : 2023-05-15 05:15:25.855579
 ```
 
 
@@ -41,6 +41,46 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dienst.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dienst.html
+)
+
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-melding.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-melding.html
+)
+
+url is broken [https://data.vlaanderen.be/ns/melding](<https://data.vlaanderen.be/ns/melding>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+)
+
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-complexe-datatypes.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-complexe-datatypes.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
