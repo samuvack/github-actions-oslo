@@ -1,17 +1,7 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-15 11:15:24.831907
+! Dit document is automatisch gegenereerd op : 2023-05-15 13:13:24.646134
 ```
 
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-contactvoorkeuren.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-contactvoorkeuren.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/contactvoorkeuren/](<https://data.vlaanderen.be/doc/applicatieprofiel/contactvoorkeuren/>) 
-
-
---------------------------------------------------
 
 
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
@@ -51,26 +41,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-complexe-datatypes.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-complexe-datatypes.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-installatie.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-installatie.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
 
 
 --------------------------------------------------
