@@ -1,17 +1,7 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-17 04:07:24.413494
+! Dit document is automatisch gegenereerd op : 2023-05-18 04:06:06.945166
 ```
 
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-contactvoorkeuren.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-contactvoorkeuren.html
-)
-
-url is broken [https://data.vlaanderen.be/ns/notificatie](<https://data.vlaanderen.be/ns/notificatie>) 
-
-
---------------------------------------------------
 
 
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
@@ -36,16 +26,6 @@ url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<http
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-vegetatie.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-vegetatie.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/vocabularium/openbaardomein/vegetatie](<https://data.vlaanderen.be/doc/vocabularium/openbaardomein/vegetatie>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/vlaamse-uri-standaard-voor-data.html
 )
@@ -61,16 +41,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-draagconstructies.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-draagconstructies.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/draagconstructies/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/draagconstructies/>) 
 
 
 --------------------------------------------------
