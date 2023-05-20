@@ -1,7 +1,19 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-19 04:05:44.909589
+! Dit document is automatisch gegenereerd op : 2023-05-20 04:03:11.586209
 ```
 
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html
+)
+
+url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b](<https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b>) 
+
+url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced](<https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced>) 
+
+
+--------------------------------------------------
 
 
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
@@ -9,16 +21,6 @@
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-onbegroeid-voorkomen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---uitbreiding-onbegroeid-voorkomen.html
-)
-
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO002949](<https://data.vlaanderen.be/id/organisatie/OVO002949>) 
 
 
 --------------------------------------------------
@@ -44,31 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-elektrische-componenten.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-elektrische-componenten.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
 )
 
-url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/elektrische-componenten/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/elektrische-componenten/>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-luchtkwaliteit.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-luchtkwaliteit.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-proefenmeting.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-vocabularium-proefenmeting.html
-)
-
-url is broken [https://wegenenverkeer.data.vlaanderen.be](<https://wegenenverkeer.data.vlaanderen.be>) 
+url is broken [https://data.vlaanderen.be/id/organisatie/OVO000096](<https://data.vlaanderen.be/id/organisatie/OVO000096>) 
 
 
 --------------------------------------------------
