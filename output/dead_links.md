@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-20 04:03:11.586209
+! Dit document is automatisch gegenereerd op : 2023-05-21 04:12:05.923640
 ```
 
 
@@ -11,6 +11,16 @@
 url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b](<https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b>) 
 
 url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced](<https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-tijdstabellen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-tijdstabellen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/tijdstabellen/](<https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/tijdstabellen/>) 
 
 
 --------------------------------------------------
@@ -46,11 +56,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-transportnetwerk.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-eenvoudige-datatypes.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-eenvoudige-datatypes.html
 )
 
-url is broken [https://data.vlaanderen.be/id/organisatie/OVO000096](<https://data.vlaanderen.be/id/organisatie/OVO000096>) 
+url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/eenvoudige-datatypes/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/eenvoudige-datatypes/>) 
 
 
 --------------------------------------------------
