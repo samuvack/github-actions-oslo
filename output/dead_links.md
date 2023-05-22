@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-21 04:12:05.923640
+! Dit document is automatisch gegenereerd op : 2023-05-22 04:11:47.286803
 ```
 
 
@@ -11,16 +11,6 @@
 url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b](<https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b>) 
 
 url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced](<https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-tijdstabellen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-dienstregeling-en-planning-tijdstabellen.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/tijdstabellen/](<https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/tijdstabellen/>) 
 
 
 --------------------------------------------------
@@ -56,11 +46,11 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-eenvoudige-datatypes.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-eenvoudige-datatypes.html
+[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
 )
 
-url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/eenvoudige-datatypes/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/eenvoudige-datatypes/>) 
+url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
