@@ -133,7 +133,7 @@ for line in lines:
                 if str(r.status_code) == '404':
                     return True
             except IOError as e:
-                return True
+                return False
 
 
         response = requests.get(link)
