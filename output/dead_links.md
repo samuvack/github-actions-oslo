@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-23 04:07:24.351914
+! Dit document is automatisch gegenereerd op : 2023-05-23 10:52:53.878406
 ```
 
 
@@ -11,36 +11,6 @@
 url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b](<https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b>) 
 
 url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced](<https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dossier.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dossier.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/dossier/](<https://data.vlaanderen.be/doc/applicatieprofiel/dossier/>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
-)
-
-url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-terreindelen.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-terreindelen.html
-)
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen](<https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen>) 
 
 
 --------------------------------------------------
@@ -61,16 +31,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-](https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-dienstregeling-en-planning.html
-)
-
-url is broken [https://purl.eu/ns/mobility/timetables-and-planning](<https://purl.eu/ns/mobility/timetables-and-planning>) 
 
 
 --------------------------------------------------
