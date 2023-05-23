@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-22 04:11:47.286803
+! Dit document is automatisch gegenereerd op : 2023-05-23 04:07:24.351914
 ```
 
 
@@ -16,11 +16,31 @@ url is broken [https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b56
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dossier.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dossier.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/dossier/](<https://data.vlaanderen.be/doc/applicatieprofiel/dossier/>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 ](https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-vlaamse-codex.html
 )
 
 url is broken [https://staging.opendata.codex.vandenbroele.be:8888/sparql](<https://staging.opendata.codex.vandenbroele.be:8888/sparql>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-terreindelen.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/openbaar-domein-2.0.0---applicatieprofiel-terreindelen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen](<https://data.vlaanderen.be/doc/applicatieprofiel/terreindelen>) 
 
 
 --------------------------------------------------
