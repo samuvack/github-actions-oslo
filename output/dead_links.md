@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-23 15:53:25.289782
+! Dit document is automatisch gegenereerd op : 2023-05-23 23:21:24.057628
 ```
 
 
@@ -123,6 +123,8 @@ url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vla
 )
 
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/observaties-en-metingen/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/observaties-en-metingen/ontwerpstandaard/2021-08-01>) 
 
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/sensoren-en-bemonstering/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/sensoren-en-bemonstering/ontwerpstandaard/2021-08-01>) 
 
