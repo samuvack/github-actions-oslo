@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-27 01:42:54.644950
+! Dit document is automatisch gegenereerd op : 2023-05-27 04:23:54.650687
 ```
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
