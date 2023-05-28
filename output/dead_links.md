@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-29 00:24:44.752741
+! Dit document is automatisch gegenereerd op : 2023-05-29 00:53:15.678582
 ```
 
 
@@ -31,16 +31,6 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-bestuurlijk-sanctieregister.html
-](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-bestuurlijk-sanctieregister.html
-)
-
-url is broken [https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister](<https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister>) 
 
 
 --------------------------------------------------
