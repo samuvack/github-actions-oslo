@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-05-31 18:30:59.185374
+! Dit document is automatisch gegenereerd op : 2023-05-31 19:20:16.882222
 ```
 
 
@@ -161,6 +161,16 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-consent/raw/sta
 url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie](<https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie>) 
 
 url is broken [https://test.data.vlaanderen.be/ns/slimme-stadsdistributie](<https://test.data.vlaanderen.be/ns/slimme-stadsdistributie>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
 
 --------------------------------------------------
