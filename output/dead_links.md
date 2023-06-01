@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-06-01 11:19:00.467123
+! Dit document is automatisch gegenereerd op : 2023-06-01 11:59:40.412490
 ```
 
 
@@ -91,6 +91,16 @@ url is broken [https://test.data.vlaanderen.be/ns/mobiliteitsbudget/](<https://t
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link>) 
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-ruimtelijke-bereiken.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-ruimtelijke-bereiken.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
 
 --------------------------------------------------
