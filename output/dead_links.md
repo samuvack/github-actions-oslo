@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-06-01 15:02:13.649371
+! Dit document is automatisch gegenereerd op : 2023-06-02 03:17:33.557313
 ```
 
 
@@ -113,6 +113,14 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen](<https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen>) 
 
 url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vlaanderen.be/ns/Verkeersmetingen>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 2 - OSLO Verkeersmetingen.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 2 - OSLO Verkeersmetingen.pdf>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 3 - OSLO Verkeersmetingen.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 3 - OSLO Verkeersmetingen.pdf>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie tweede thematische werkgroep - Verkeersmetingen - 2 mei 2023](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie tweede thematische werkgroep - Verkeersmetingen - 2 mei 2023>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie derde thematische werkgroep -Verkeersmetingen -  30 mei 2023.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie derde thematische werkgroep -Verkeersmetingen -  30 mei 2023.pdf>) 
 
 
 --------------------------------------------------
