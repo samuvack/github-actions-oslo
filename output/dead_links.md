@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-06-02 03:17:33.557313
+! Dit document is automatisch gegenereerd op : 2023-06-05 03:17:29.716307
 ```
 
 
@@ -147,6 +147,20 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01>) 
 
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html
+)
+
+url is broken [https://wetransfer.com/downloads/fd1f9379e2ec145ccc910144801efb0d20230426160613/d6f9e5](<https://wetransfer.com/downloads/fd1f9379e2ec145ccc910144801efb0d20230426160613/d6f9e5>) 
+
+url is broken [https://wetransfer.com/downloads/3d5f493bd9e4b799ae696fc98a652e1020230426160655/aee65c](<https://wetransfer.com/downloads/3d5f493bd9e4b799ae696fc98a652e1020230426160655/aee65c>) 
+
+url is broken [https://wetransfer.com/downloads/6c58ec467ce7dc54a5bf404ad87dcfc920230427092916/9d6ccb](<https://wetransfer.com/downloads/6c58ec467ce7dc54a5bf404ad87dcfc920230427092916/9d6ccb>) 
 
 
 --------------------------------------------------
