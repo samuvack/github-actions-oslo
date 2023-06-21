@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-06-20 03:12:09.986046
+! Dit document is automatisch gegenereerd op : 2023-06-21 03:13:54.606326
 ```
 
 
@@ -58,10 +58,6 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-visualo/raw/sta
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 )
 
-url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/](<https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/>) 
-
-url is broken [https://test.data.vlaanderen.be/ns/mobiliteitsbudget/](<https://test.data.vlaanderen.be/ns/mobiliteitsbudget/>) 
-
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link>) 
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link>) 
@@ -83,8 +79,6 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-verkeersmetingen.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-verkeersmetingen.html
 )
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen](<https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen>) 
 
 url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vlaanderen.be/ns/Verkeersmetingen>) 
 
@@ -130,18 +124,6 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-consent/raw/sta
 --------------------------------------------------
 
 
-[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-oslo-slimme-stadsdistributie.html
-](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-oslo-slimme-stadsdistributie.html
-)
-
-url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie](<https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie>) 
-
-url is broken [https://test.data.vlaanderen.be/ns/slimme-stadsdistributie](<https://test.data.vlaanderen.be/ns/slimme-stadsdistributie>) 
-
-
---------------------------------------------------
-
-
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
 )
@@ -155,8 +137,6 @@ url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/r
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-verkeersmetingen.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-verkeersmetingen.html
 )
-
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen](<https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen>) 
 
 url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vlaanderen.be/ns/Verkeersmetingen>) 
 
