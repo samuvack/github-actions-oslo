@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-06-21 03:13:54.606326
+! Dit document is automatisch gegenereerd op : 2023-06-22 03:15:13.407660
 ```
 
 
@@ -58,6 +58,10 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-visualo/raw/sta
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 )
 
+url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/](<https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/>) 
+
+url is broken [https://test.data.vlaanderen.be/ns/mobiliteitsbudget/](<https://test.data.vlaanderen.be/ns/mobiliteitsbudget/>) 
+
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link>) 
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link>) 
@@ -81,6 +85,8 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 )
 
 url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vlaanderen.be/ns/Verkeersmetingen>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 3 - OSLO Verkeersmetingen.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 3 - OSLO Verkeersmetingen.pdf>) 
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie tweede thematische werkgroep - Verkeersmetingen - 2 mei 2023](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie tweede thematische werkgroep - Verkeersmetingen - 2 mei 2023>) 
 
@@ -119,6 +125,18 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Wate
 )
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-consent/raw/standaardenregister/presentations/20210819_BusinessWorkshop_PowerPoint_OSLOTrapeze.pptx](<https://github.com/Informatievlaanderen/OSLOthema-consent/raw/standaardenregister/presentations/20210819_BusinessWorkshop_PowerPoint_OSLOTrapeze.pptx>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-oslo-slimme-stadsdistributie.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-oslo-slimme-stadsdistributie.html
+)
+
+url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie](<https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie>) 
+
+url is broken [https://test.data.vlaanderen.be/ns/slimme-stadsdistributie](<https://test.data.vlaanderen.be/ns/slimme-stadsdistributie>) 
 
 
 --------------------------------------------------
