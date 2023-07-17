@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-07-14 03:24:30.358558
+! Dit document is automatisch gegenereerd op : 2023-07-17 03:26:02.631173
 ```
 
 
@@ -86,7 +86,9 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 
 url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vlaanderen.be/ns/Verkeersmetingen>) 
 
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 3 - OSLO Verkeersmetingen.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/reports/Verslag thematische werkgroep 3 - OSLO Verkeersmetingen.pdf>) 
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie derde thematische werkgroep -Verkeersmetingen - 30 mei 2023.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie derde thematische werkgroep -Verkeersmetingen - 30 mei 2023.pdf>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie vierde thematische werkgroep -Verkeersmetingen - 27 juni 2023 (1).pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie vierde thematische werkgroep -Verkeersmetingen - 27 juni 2023 (1).pdf>) 
 
 
 --------------------------------------------------
@@ -154,9 +156,11 @@ url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/r
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-verkeersmetingen.html
 )
 
-url is broken [https://data.vlaanderen.be/doc/vocabularium/verkeersmetingen](<https://data.vlaanderen.be/doc/vocabularium/verkeersmetingen>) 
-
 url is broken [https://data.vlaanderen.be/ns/Verkeersmetingen](<https://data.vlaanderen.be/ns/Verkeersmetingen>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie derde thematische werkgroep -Verkeersmetingen - 30 mei 2023.pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie derde thematische werkgroep -Verkeersmetingen - 30 mei 2023.pdf>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie vierde thematische werkgroep -Verkeersmetingen - 27 juni 2023 (1).pdf](<https://github.com/Informatievlaanderen/OSLOthema-verkeersmetingen/raw/standaardenregister/presentations/Presentatie vierde thematische werkgroep -Verkeersmetingen - 27 juni 2023 (1).pdf>) 
 
 
 --------------------------------------------------

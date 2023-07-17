@@ -1,6 +1,6 @@
 ## OSLO standaarden validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-07-14 03:23:09.607624
+! Dit document is automatisch gegenereerd op : 2023-07-17 03:24:26.506786
 ```
 
 | Onbrekende gegevens               | Aantal  |
@@ -15,5 +15,5 @@ Voor meer informatie, ga naar [dit overzicht](output/controle_applicatieprofiel.
 
 ## OSLO standaardenregister
 
-23 dode linken gevonden in het standaardregister
+25 dode linken gevonden in het standaardregister
 Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
