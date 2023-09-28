@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-09-27 02:57:31.186717
+! Dit document is automatisch gegenereerd op : 2023-09-28 02:57:10.764481
 ```
 
 
@@ -115,6 +115,18 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01>) 
 
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html
+)
+
+url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/](<https://test.data.vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/>) 
+
+url is broken [https://test.data.vlaanderen.be/doc/vocabularium/leercredential/ontwerpstandaard/2023-02-21/](<https://test.data.vlaanderen.be/doc/vocabularium/leercredential/ontwerpstandaard/2023-02-21/>) 
 
 
 --------------------------------------------------
