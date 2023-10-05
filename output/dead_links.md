@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-10-04 02:58:38.427702
+! Dit document is automatisch gegenereerd op : 2023-10-05 02:58:01.823140
 ```
 
 
@@ -58,10 +58,6 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-visualo/raw/sta
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 )
 
-url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/](<https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/>) 
-
-url is broken [https://test.data.vlaanderen.be/ns/mobiliteitsbudget/](<https://test.data.vlaanderen.be/ns/mobiliteitsbudget/>) 
-
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link>) 
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link>) 
@@ -115,18 +111,6 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01>) 
 
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01>) 
-
-
---------------------------------------------------
-
-
-[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html
-](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html
-)
-
-url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/](<https://test.data.vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/>) 
-
-url is broken [https://test.data.vlaanderen.be/doc/vocabularium/leercredential/ontwerpstandaard/2023-02-21/](<https://test.data.vlaanderen.be/doc/vocabularium/leercredential/ontwerpstandaard/2023-02-21/>) 
 
 
 --------------------------------------------------
