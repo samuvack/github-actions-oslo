@@ -1,15 +1,11 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-11-09 02:57:55.342152
+! Dit document is automatisch gegenereerd op : 2023-11-10 02:57:46.265418
 ```
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
 Geen beschrijving gevonden bij klasse "Relatie Qualificatie"   
 Geen beschrijving gevonden bij klasse "Contactpunt"   
 Geen beschrijving gevonden bij klasse "Identificator"   
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/dossier/](https://data.vlaanderen.be/doc/applicatieprofiel/dossier/)\
-Kardinaliteit ontbreekt in attribuut "is neerslag van" van klasse "Collectie"  
 
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/generieke-terugmeldfaciliteit/](https://data.vlaanderen.be/doc/applicatieprofiel/generieke-terugmeldfaciliteit/)\
@@ -61,10 +57,6 @@ Geen verwacht type gevonden bij attribuut "volledig adres" van klasse "Adresvoor
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/notificatie-basis/](https://data.vlaanderen.be/doc/applicatieprofiel/notificatie-basis/)\
 Kardinaliteit ontbreekt in attribuut "heeft verantwoordelijke autoriteit" van klasse "Publieke Dienstverlening"  
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/dossier/](https://data.vlaanderen.be/doc/applicatieprofiel/dossier/)\
-Kardinaliteit ontbreekt in attribuut "is neerslag van" van klasse "Collectie"  
 
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/inname-openbaar-domein/](https://data.vlaanderen.be/doc/applicatieprofiel/inname-openbaar-domein/)\
