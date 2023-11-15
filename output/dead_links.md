@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2023-11-14 02:59:24.767314
+! Dit document is automatisch gegenereerd op : 2023-11-15 03:00:17.073731
 ```
 
 
@@ -19,6 +19,16 @@ url is broken [https://drive.google.com/open?id=1fS3GbJIRUXzNnVFTDPHlzhVgrltcRoE
 )
 
 url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac](<https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsac>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-anpr-en-trajectcontrole.html
+](https://data.vlaanderen.be/standaarden/erkende-standaard/wegenenverkeer-implementatiemodel-anpr-en-trajectcontrole.html
+)
+
+url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/anpr-trajectcontrole/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/anpr-trajectcontrole/>) 
 
 
 --------------------------------------------------
