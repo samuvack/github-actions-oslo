@@ -1,12 +1,6 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-01-25 03:02:00.588419
+! Dit document is automatisch gegenereerd op : 2024-01-26 02:57:18.188220
 ```
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
-Geen beschrijving gevonden bij klasse "Relatie Qualificatie"   
-Geen beschrijving gevonden bij klasse "Contactpunt"   
-Geen beschrijving gevonden bij klasse "Identificator"   
-
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/generieke-terugmeldfaciliteit/](https://data.vlaanderen.be/doc/applicatieprofiel/generieke-terugmeldfaciliteit/)\
 fixme gevonden in de link van klasse "Applicatie"   
@@ -22,31 +16,8 @@ fixme gevonden in de link van klasse "Meldingstatus"
 fixme gevonden in attribuut "statuswijziging door" van klasse "Meldingstatus"   
 
 
-[https://data.vlaanderen.be/doc/applicatieprofiel/issue-tracking-voor-burgers-en-organisaties/](https://data.vlaanderen.be/doc/applicatieprofiel/issue-tracking-voor-burgers-en-organisaties/)\
-fixme gevonden in de link van klasse "Applicatie"   
-fixme gevonden in de link van klasse "Melding"   
-fixme gevonden in attribuut "webpagina" van klasse "Melding"   
-fixme gevonden in de link van klasse "Melding Body"   
-fixme gevonden in de link van klasse "Meldingstatus"   
-fixme gevonden in attribuut "statuswijziging door" van klasse "Meldingstatus"   
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/ldes](https://data.vlaanderen.be/doc/applicatieprofiel/ldes)\
-fixme gevonden in attribuut "relatie" van klasse "Node"   
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/](https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/)\
-Geen beschrijving gevonden bij klasse "Relatie Qualificatie"   
-Geen beschrijving gevonden bij klasse "Contactpunt"   
-Geen beschrijving gevonden bij klasse "Identificator"   
-
-
 [https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/stopplaatsen/](https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/stopplaatsen/)\
 Geen verwacht type gevonden bij attribuut "zomertijdzone offset" van klasse "Locale"   
-Geen verwacht type gevonden bij attribuut "volledig adres" van klasse "Adresvoorstelling"   
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/tijdstabellen/](https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit/dienstregeling-en-planning/tijdstabellen/)\
 Geen verwacht type gevonden bij attribuut "volledig adres" van klasse "Adresvoorstelling"   
 
 
@@ -65,16 +36,4 @@ Kardinaliteit ontbreekt in attribuut "eenheid van" van klasse "Organisatie-eenhe
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis/](https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis/)\
 Kardinaliteit ontbreekt in attribuut "wordt ingevuld door" van klasse "Positie"  
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur](https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur)\
-Geen verwacht type gevonden bij attribuut "nationaliteit" van klasse "Nationaliteit"   
-fixme gevonden in attribuut "woonplaats" van klasse "Persoon"   
-Geen beschrijving gevonden bij klasse "Geometrie"   
-Definitie ontbreekt in attribuut "als WKT" van klasse "Geometrie"  
-fixme gevonden in de link van klasse "Standaard Eenheid"   
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/statistiek](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek)\
-Geen beschrijving gevonden bij klasse "Moment"   
 
