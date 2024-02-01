@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-01-31 02:57:15.172263
+! Dit document is automatisch gegenereerd op : 2024-02-01 03:00:13.748169
 ```
 
 
@@ -29,6 +29,16 @@ url is broken [https://drive.google.com/open?id=1aLjUVsW_QoSR48CpRrwUOZ64wn4iOsa
 )
 
 url is broken [https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/anpr-trajectcontrole/](<https://wegenenverkeer.data.vlaanderen.be/doc/implementatiemodel/anpr-trajectcontrole/>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-bestuurlijk-sanctieregister.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-bestuurlijk-sanctieregister.html
+)
+
+url is broken [https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister](<https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister>) 
 
 
 --------------------------------------------------
@@ -68,6 +78,42 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/s
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-ruimtelijke-bereiken.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-ruimtelijke-bereiken.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularia-en-applicatieprofielen-bodem-en-ondergrond.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularia-en-applicatieprofielen-bodem-en-ondergrond.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/observaties-en-metingen/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/observaties-en-metingen/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/sensoren-en-bemonstering/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/sensoren-en-bemonstering/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-air-and-water.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-air-and-water.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01](<https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-oslo-consent.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-oslo-consent.html
 )
@@ -85,6 +131,16 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-consent/raw/sta
 url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie](<https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie>) 
 
 url is broken [https://test.data.vlaanderen.be/ns/slimme-stadsdistributie](<https://test.data.vlaanderen.be/ns/slimme-stadsdistributie>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
 
 --------------------------------------------------

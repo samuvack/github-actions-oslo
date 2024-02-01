@@ -1,19 +1,19 @@
 ## OSLO standaarden validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-01-31 02:56:55.823312
+! Dit document is automatisch gegenereerd op : 2024-02-01 02:59:12.071592
 ```
 
 | Onbrekende gegevens               | Aantal  |
 | ----------------------------              | --------------------------  |
-| Fixme gevonden in attribuut               | 0  |
-| Geen verwacht type gevonden bij attribuut | 0  |
-| Kardinaliteit ontbreekt in attribuut      | 0  |
-| Definitie ontbreekt in attribuut          | 0  |
-| Geen beschrijving gevonden bij klasse     | 0  |
+| Fixme gevonden in attribuut               | 20  |
+| Geen verwacht type gevonden bij attribuut | 6  |
+| Kardinaliteit ontbreekt in attribuut      | 3  |
+| Definitie ontbreekt in attribuut          | 1  |
+| Geen beschrijving gevonden bij klasse     | 8  |
 
 Voor meer informatie, ga naar [dit overzicht](output/controle_applicatieprofiel.md)
 
 ## OSLO standaardenregister
 
-15 dode linken gevonden in het standaardregister
+23 dode linken gevonden in het standaardregister
 Voor meer informatie, ga naar [dit overzicht](output/dead_links.md)
