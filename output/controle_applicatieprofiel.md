@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-02-14 02:14:13.450075
+! Dit document is automatisch gegenereerd op : 2024-02-15 02:14:22.247523
 ```
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
@@ -73,8 +73,4 @@ fixme gevonden in attribuut "woonplaats" van klasse "Persoon"
 Geen beschrijving gevonden bij klasse "Geometrie"   
 Definitie ontbreekt in attribuut "als WKT" van klasse "Geometrie"  
 fixme gevonden in de link van klasse "Standaard Eenheid"   
-
-
-[https://data.vlaanderen.be/doc/applicatieprofiel/statistiek](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek)\
-Geen beschrijving gevonden bij klasse "Moment"   
 

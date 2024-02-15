@@ -1,6 +1,6 @@
 ## OSLO standaarden validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-02-14 02:14:13.450075
+! Dit document is automatisch gegenereerd op : 2024-02-15 02:14:22.247523
 ```
 
 | Onbrekende gegevens               | Aantal  |
@@ -9,7 +9,7 @@
 | Geen verwacht type gevonden bij attribuut | 6  |
 | Kardinaliteit ontbreekt in attribuut      | 3  |
 | Definitie ontbreekt in attribuut          | 1  |
-| Geen beschrijving gevonden bij klasse     | 8  |
+| Geen beschrijving gevonden bij klasse     | 7  |
 
 Voor meer informatie, ga naar [dit overzicht](output/controle_applicatieprofiel.md)
 
