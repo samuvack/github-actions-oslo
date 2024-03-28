@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-03-27 02:14:59.023542
+! Dit document is automatisch gegenereerd op : 2024-03-28 02:15:44.894260
 ```
 
 
@@ -65,10 +65,6 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 )
-
-url is broken [https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/](<https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/>) 
-
-url is broken [https://test.data.vlaanderen.be/ns/mobiliteitsbudget/](<https://test.data.vlaanderen.be/ns/mobiliteitsbudget/>) 
 
 url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link>) 
 
