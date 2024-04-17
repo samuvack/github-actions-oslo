@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-04-16 02:16:42.033560
+! Dit document is automatisch gegenereerd op : 2024-04-17 02:15:37.069851
 ```
 
 
@@ -66,9 +66,9 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 )
 
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/charter/link>) 
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/reports/Verslag Business Workshop Mobiliteitsbudget.docx.pdf](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/reports/Verslag Business Workshop Mobiliteitsbudget.docx.pdf>) 
 
-url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/documents/link>) 
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/presentations/11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf](<https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/standaardenregister/presentations/11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf>) 
 
 
 --------------------------------------------------
