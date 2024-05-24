@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-05-23 02:18:12.921330
+! Dit document is automatisch gegenereerd op : 2024-05-24 02:16:53.683445
 ```
 
 
@@ -44,6 +44,138 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijke-san
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-bodem-en-ondergrond.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-bodem-en-ondergrond.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-observaties-en-metingen.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-observaties-en-metingen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-sensoren-en-bemonstering.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-sensoren-en-bemonstering.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-bodem-en-ondergrond.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-bodem-en-ondergrond.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-observaties-en-metingen.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-observaties-en-metingen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-sensoren-en-bemonstering.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-sensoren-en-bemonstering.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-bodem-en-ondergrond-interpretaties.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-bodem-en-ondergrond-interpretaties.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-bodem-en-ondergrond-observaties.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-bodem-en-ondergrond-observaties.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-bodem.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-bodem.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-grondboringen.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-grondboringen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-grondwatermeetnet.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-grondwatermeetnet.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-mobiliteitsbudget-.html
 )
@@ -62,6 +194,20 @@ url is broken [https://github.com/Informatievlaanderen/OSLOthema-moBurgers/raw/s
 
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-sonderingen.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-sonderingen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
 
 --------------------------------------------------
 
@@ -70,11 +216,43 @@ url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergr
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularia-en-applicatieprofielen-bodem-en-ondergrond.html
 )
 
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-bodem-en-ondergrond-interpretaties.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-bodem-en-ondergrond-interpretaties.html
+)
+
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/observaties-en-metingen/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/observaties-en-metingen/ontwerpstandaard/2021-08-01>) 
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
-url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/sensoren-en-bemonstering/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/sensoren-en-bemonstering/ontwerpstandaard/2021-08-01>) 
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-bodem-en-ondergrond-observaties.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-bodem-en-ondergrond-observaties.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-bodem.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-bodem.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
 
 --------------------------------------------------
@@ -114,9 +292,35 @@ url is broken [https://test.data.vlaanderen.be/ns/slimme-stadsdistributie](<http
 --------------------------------------------------
 
 
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-grondboringen.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-grondboringen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
 [https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
 ](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-ruimtelijke-bereiken.html
 )
+
+url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-sonderingen.html
+](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-sonderingen.html
+)
+
+url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
 url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
