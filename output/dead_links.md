@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-05-24 02:16:53.683445
+! Dit document is automatisch gegenereerd op : 2024-05-27 02:16:23.703305
 ```
 
 
@@ -87,6 +87,24 @@ url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/r
 url is broken [https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
 
 url is broken [https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01](<https://data.vlaanderen.be/doc/vocabularium/bodem-en-ondergrond/ruimtelijke-bereiken/ontwerpstandaard/2021-08-01>) 
+
+
+--------------------------------------------------
+
+
+[https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-en-applicatieprofiel-oslo-waterkwaliteit.html
+](https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-en-applicatieprofiel-oslo-waterkwaliteit.html
+)
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/Verslag Thematische werkgroep 1 - 9 november 2021.docx](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/Verslag Thematische werkgroep 1 - 9 november 2021.docx>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 1 - 22 juni 2022.docx](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 1 - 22 juni 2022.docx>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 2 - 14 juli 2022.docx](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/reports/OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 2 - 14 juli 2022.docx>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/presentations/OSLO Omgeving_codelijsten-Presentatie Thematische werkgroep 1 - 22 juni 2022.pdf](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/presentations/OSLO Omgeving_codelijsten-Presentatie Thematische werkgroep 1 - 22 juni 2022.pdf>) 
+
+url is broken [https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/presentations/OSLO Omgeving_codelijsten-Presentatie Thematische werkgroep 2 - 14 juli 2022.pdf](<https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/raw/standaardenregister/presentations/OSLO Omgeving_codelijsten-Presentatie Thematische werkgroep 2 - 14 juli 2022.pdf>) 
 
 
 --------------------------------------------------
