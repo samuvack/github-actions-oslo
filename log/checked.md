@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-05-31 02:15:39.939953
+! Dit document is automatisch gegenereerd op : 2024-06-03 02:16:24.740373
 ```
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-bedrijventerrein.html
 https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-besluit-publicatie.html
