@@ -1,5 +1,5 @@
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-06-04 02:15:05.056114
+! Dit document is automatisch gegenereerd op : 2024-06-05 02:17:27.080867
 ```
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL](https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL)\
@@ -76,7 +76,6 @@ Kardinaliteit ontbreekt in attribuut "wordt ingevuld door" van klasse "Positie"
 
 
 [https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur](https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur)\
-Geen verwacht type gevonden bij attribuut "nationaliteit" van klasse "Nationaliteit"   
 fixme gevonden in attribuut "woonplaats" van klasse "Persoon"   
 Geen beschrijving gevonden bij klasse "Geometrie"   
 Definitie ontbreekt in attribuut "als WKT" van klasse "Geometrie"  
