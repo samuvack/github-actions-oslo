@@ -1,13 +1,13 @@
 ## OSLO standaarden validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-08-20 02:16:06.042988
+! Dit document is automatisch gegenereerd op : 2024-08-21 02:16:54.199953
 ```
 
 | Onbrekende gegevens               | Aantal  |
 | ----------------------------              | --------------------------  |
 | Fixme gevonden in attribuut               | 20  |
 | Geen verwacht type gevonden bij attribuut | 5  |
-| Kardinaliteit ontbreekt in attribuut      | 5  |
+| Kardinaliteit ontbreekt in attribuut      | 3  |
 | Definitie ontbreekt in attribuut          | 1  |
 | Geen beschrijving gevonden bij klasse     | 7  |
 
