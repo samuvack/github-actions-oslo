@@ -1,6 +1,6 @@
 ## OSLO standaarden validatie
 ```diff
-! Dit document is automatisch gegenereerd op : 2024-12-23 02:18:58.683367
+! Dit document is automatisch gegenereerd op : 2024-12-24 02:18:12.694961
 ```
 
 | Onbrekende gegevens               | Aantal  |
